@@ -1,0 +1,3016 @@
+{
+  "abdominal distention": [
+    "perut distensi",
+    "penumpukan gas di perut",
+    "penumpukan cairan di perut",
+    "perut kembung",
+    "perut begah",
+    "perut membesar",
+    "perut buncit mendadak",
+    "begah",
+    "kembung",
+    "bloating"
+  ],
+  "abnormal appearing skin": [
+    "kelainan tampilan kulit",
+    "lesi kulit",
+    "kulit kelihatan aneh",
+    "kulit berubah warna",
+    "ada bercak bercak di kulit",
+    "kulit bruntusan",
+    "kulit kelainan",
+    "kulit burik",
+    "budukan",
+    "korengan"
+  ],
+  "abnormal appearing tongue": [
+    "kelainan tampilan lidah",
+    "lidah kelihatan aneh",
+    "lidah putih putih",
+    "lidah pecah pecah",
+    "lidah sariawan parah",
+    "lidah mati rasa",
+    "lidah jamuran",
+    "lidah sariawan",
+    "lidah baal"
+  ],
+  "abnormal breathing sounds": [
+    "suara napas abnormal",
+    "suara napas tambahan",
+    "stridor",
+    "ronkhi",
+    "napas bunyi",
+    "napas berbunyi ngik ngik",
+    "napas grook grook",
+    "napas sesak bunyi",
+    "napas bengek",
+    "mengorok"
+  ],
+  "abnormal involuntary movements": [
+    "gerakan tidak terkendali",
+    "gerakan involunter",
+    "gerakan tubuh aneh sendiri",
+    "anggota tubuh gerak gerak sendiri",
+    "sering kagetan",
+    "kejang halus",
+    "kedutan parah",
+    "tremor",
+    "gemetaran",
+    "twitching"
+  ],
+  "abnormal movement of eyelid": [
+    "gerakan kelopak mata abnormal",
+    "kelopak mata kedutan terus",
+    "mata berkedip kedip sendiri",
+    "mata merem melek sendiri",
+    "kedutan mata",
+    "mata tic",
+    "mata kedut kedut"
+  ],
+  "abnormal size or shape of ear": [
+    "kelainan bentuk telinga",
+    "kelainan ukuran telinga",
+    "malformasi telinga",
+    "telinga bentuknya aneh",
+    "daun telinga besar sebelah",
+    "telinga kecil sebelah",
+    "kuping caplang",
+    "kuping ciut",
+    "kuping aneh"
+  ],
+  "absence of menstruation": [
+    "amenore",
+    "tidak adanya menstruasi",
+    "tidak datang bulan",
+    "belum haid",
+    "telat menstruasi berbulan bulan",
+    "menstruasi stop",
+    "telat dapet",
+    "nggak dapet menses",
+    "telat bulan"
+  ],
+  "abusing alcohol": [
+    "penyalahgunaan alkohol",
+    "alkoholisme",
+    "pecandu alkohol",
+    "suka mabuk mabukan",
+    "ketergantungan minuman keras",
+    "miras",
+    "pemabuk",
+    "hobi mendem",
+    "hobi mabok",
+    "peminum berat"
+  ],
+  "ache all over": [
+    "mialgia generalisata",
+    "nyeri seluruh tubuh",
+    "badan sakit semua",
+    "seluruh badan linu",
+    "badan pegal pegal sebadan",
+    "badan rasanya remuk",
+    "badan jompo",
+    "badan remuk",
+    "pegal linu",
+    "ringsek"
+  ],
+  "acne or pimples": [
+    "akne vulgaris",
+    "jerawatan",
+    "muka beruntusan",
+    "banyak bisul kecil di muka",
+    "bruntusan",
+    "muka panen",
+    "breakout"
+  ],
+  "allergic reaction": [
+    "reaksi alergi",
+    "hipersensitivitas",
+    "alergi kambuh",
+    "gatal gatal karena makanan",
+    "gatal gatal karena debu",
+    "biduran",
+    "bersin bersin karena alergi",
+    "kaligata",
+    "bentol alergi"
+  ],
+  "ankle pain": [
+    "nyeri pergelangan kaki",
+    "pergelangan kaki sakit",
+    "mata kaki nyeri",
+    "sakit buat jalan",
+    "engkel sakit",
+    "engkel nyeri",
+    "salah urat kaki"
+  ],
+  "ankle stiffness or tightness": [
+    "kaku pada pergelangan kaki",
+    "pergelangan kaki kaku",
+    "engkel kaku susah digerakkan",
+    "mata kaki tegang",
+    "engkel kaku",
+    "engkel stiff",
+    "kaki kaku"
+  ],
+  "ankle swelling": [
+    "edema pergelangan kaki",
+    "pergelangan kaki bengkak",
+    "mata kaki bengkak",
+    "engkel bengkak",
+    "kaki gajah",
+    "kaki bengkak"
+  ],
+  "ankle weakness": [
+    "kelemahan pada pergelangan kaki",
+    "pergelangan kaki lemas",
+    "engkel letoy",
+    "kaki sering tertekuk sendiri saat jalan",
+    "kaki lemas",
+    "engkel lemah"
+  ],
+  "antisocial behavior": [
+    "perilaku antisosial",
+    "gangguan kepribadian antisosial",
+    "menolak bergaul",
+    "tidak mau bersosialisasi",
+    "suka menyendiri",
+    "menjauhi orang orang",
+    "ansos",
+    "kuper",
+    "kurang pergaulan",
+    "introvert parah"
+  ],
+  "anxiety and nervousness": [
+    "ansietas",
+    "kecemasan",
+    "kegugupan",
+    "merasa cemas",
+    "gugup",
+    "gelisah",
+    "khawatir berlebihan",
+    "deg degan terus",
+    "overthinking",
+    "panikan"
+  ],
+  "apnea": [
+    "apnea",
+    "henti napas sementara",
+    "napas sempat berhenti pas tidur",
+    "tiba tiba megap megap pas tidur",
+    "seperti tercekik saat tidur",
+    "sleep apnea",
+    "megap megap",
+    "seperti ketindihan"
+  ],
+  "arm cramps or spasms": [
+    "spasme otot lengan",
+    "kram lengan",
+    "tangan kram",
+    "lengan kaku mendadak",
+    "otot lengan ketarik",
+    "otot lengan kejang",
+    "lengan kaku",
+    "otot ketarik"
+  ],
+  "arm lump or mass": [
+    "massa lengan",
+    "benjolan lengan",
+    "benjolan di tangan",
+    "ada daging tumbuh di lengan",
+    "tangan benjol",
+    "lengan bengkak berbenjol",
+    "ucleng",
+    "benjolan tangan"
+  ],
+  "arm pain": [
+    "nyeri lengan",
+    "sakit lengan",
+    "tangan sakit",
+    "lengan linu",
+    "tangan nyeri",
+    "sakit tangan",
+    "tangan pegal"
+  ],
+  "arm stiffness or tightness": [
+    "kaku pada lengan",
+    "lengan kaku",
+    "tangan tegang",
+    "lengan kencang",
+    "tangan kaku susah digerakkan",
+    "tangan stiff",
+    "lengan kaku"
+  ],
+  "arm swelling": [
+    "edema lengan",
+    "lengan bengkak",
+    "tangan bengkak",
+    "lengan membesar",
+    "tangan bengkak",
+    "tangan gede sebelah"
+  ],
+  "arm weakness": [
+    "kelemahan lengan",
+    "lengan lemas",
+    "tangan lemas",
+    "tangan letoy",
+    "tangan tidak bertenaga",
+    "lengan lemah",
+    "tangan lunglai",
+    "tangan ga bisa ngangkat"
+  ],
+  "back cramps or spasms": [
+    "spasme otot punggung",
+    "kram punggung",
+    "punggung kejang",
+    "otot punggung ketarik",
+    "punggung kram",
+    "boyok kram",
+    "pinggang ketarik"
+  ],
+  "back mass or lump": [
+    "massa punggung",
+    "benjolan punggung",
+    "benjolan di pinggang",
+    "ucleng di punggung",
+    "punggung benjol",
+    "ada daging tumbuh di punggung"
+  ],
+  "back pain": [
+    "nyeri punggung",
+    "sakit punggung",
+    "sakit pinggang",
+    "nyeri pinggang",
+    "boyokan",
+    "sakit boyok",
+    "encok",
+    "punggung pegal",
+    "sakit tulang belakang"
+  ],
+  "back stiffness or tightness": [
+    "kaku pada punggung",
+    "punggung kaku",
+    "pinggang kaku",
+    "punggung tegang",
+    "boyok kaku",
+    "punggung stiff",
+    "pinggang tegang"
+  ],
+  "back swelling": [
+    "edema punggung",
+    "punggung bengkak",
+    "pinggang bengkak",
+    "bengkak di punggung",
+    "punggung kaku bengkak",
+    "belakang badan bengkak"
+  ],
+  "back weakness": [
+    "kelemahan punggung",
+    "punggung lemas",
+    "pinggang lemas",
+    "boyok letoy",
+    "punggung tidak bertenaga",
+    "tidak kuat tegak",
+    "punggung lemah"
+  ],
+  "bedwetting": [
+    "enuresis",
+    "mengompol",
+    "ngompol",
+    "kencing di kasur",
+    "ngompol pas tidur",
+    "pipis di celana pas tidur"
+  ],
+  "bladder mass": [
+    "massa kandung kemih",
+    "benjolan kandung kemih",
+    "tumor kandung kemih",
+    "ada benjolan di tempat pipis",
+    "massa di kantung kemih"
+  ],
+  "bleeding from ear": [
+    "perdarahan telinga",
+    "telinga berdarah",
+    "keluar darah dari kuping",
+    "kuping berdarah",
+    "darah keluar dari telinga"
+  ],
+  "bleeding from eye": [
+    "perdarahan mata",
+    "mata berdarah",
+    "keluar darah dari mata",
+    "mata keluar darah",
+    "perdarahan konjungtiva"
+  ],
+  "bleeding gums": [
+    "perdarahan gusi",
+    "gusi berdarah",
+    "gusi sering berdarah",
+    "gusi berdarah pas sikat gigi",
+    "gusi berdarah waktu makan",
+    "gusi merah berdarah"
+  ],
+  "bleeding in mouth": [
+    "perdarahan mulut",
+    "mulut berdarah",
+    "keluar darah dari mulut",
+    "mulut keluar darah",
+    "darah di dalam mulut"
+  ],
+  "bleeding or discharge from nipple": [
+    "perdarahan puting",
+    "puting keluar cairan",
+    "puting keluar darah",
+    "puting susu berdarah",
+    "keluar cairan aneh dari puting",
+    "discharge puting"
+  ],
+  "blindness": [
+    "kebutaan",
+    "buta",
+    "tidak bisa melihat",
+    "kehilangan penglihatan",
+    "mata buta",
+    "gelap total"
+  ],
+  "blood clots during menstrual periods": [
+    "gumpalan darah menstruasi",
+    "darah haid menggumpal",
+    "haid keluar darah beku",
+    "darah haid seperti ati ayam",
+    "menstruasi menggumpal",
+    "darah kental pas haid"
+  ],
+  "blood in stool": [
+    "darah dalam tinja",
+    "buang air besar berdarah",
+    "bab berdarah",
+    "feses berdarah",
+    "bab keluar darah",
+    "berak berdarah",
+    "feses ada darahnya"
+  ],
+  "blood in urine": [
+    "hematuria",
+    "darah dalam urine",
+    "kencing berdarah",
+    "pipis berdarah",
+    "urine berdarah",
+    "air kencing warna merah darah"
+  ],
+  "bones are painful": [
+    "nyeri tulang",
+    "tulang sakit",
+    "tulang linu",
+    "sakit di dalam tulang",
+    "tulang rasanya ngilu",
+    "tulang linu linu"
+  ],
+  "bowlegged or knock-kneed": [
+    "kaki o",
+    "kaki x",
+    "genu varum",
+    "genu valgum",
+    "kaki bengkok",
+    "tulang kaki melengkung",
+    "kaki pengkor"
+  ],
+  "breathing fast": [
+    "takipnea",
+    "napas cepat",
+    "bernapas cepat",
+    "napas terengah engah",
+    "napas memburu",
+    "ngos ngosan",
+    "napas buru buru"
+  ],
+  "bumps on penis": [
+    "bintik di penis",
+    "benjolan di penis",
+    "kutil kelamin",
+    "penis beruntusan",
+    "ada kutil di kemaluan pria",
+    "bintik bintik di alat kelamin"
+  ],
+  "burning abdominal pain": [
+    "nyeri perut membakar",
+    "perut terasa terbakar",
+    "perut perih panas",
+    "sakit ulu hati panas",
+    "lambung perih terbakar",
+    "perut panas"
+  ],
+  "burning chest pain": [
+    "nyeri dada membakar",
+    "dada terasa terbakar",
+    "dada panas",
+    "nyeri dada panas",
+    "heartburn",
+    "dada rasanya terbakar"
+  ],
+  "change in skin mole size or color": [
+    "perubahan tahi lalat",
+    "tahi lalat membesar",
+    "tahi lalat berubah warna",
+    "tahi lalat gatal dan membesar",
+    "tahi lalat aneh"
+  ],
+  "changes in stool appearance": [
+    "perubahan bentuk tinja",
+    "feses berubah warna",
+    "bentuk bab aneh",
+    "feses mengecil seperti kotoran kambing",
+    "warna bab tidak normal"
+  ],
+  "chest tightness": [
+    "dada tertekan",
+    "dada terasa sempit",
+    "dada sesak",
+    "dada terasa berat",
+    "dada seperti dihimpit",
+    "dada ampek",
+    "dada nyesek"
+  ],
+  "chills": [
+    "menggigil",
+    "kedinginan",
+    "merinding kedinginan",
+    "badan menggigil",
+    "gemetar karena dingin"
+  ],
+  "cloudy eye": [
+    "mata keruh",
+    "mata berkabut",
+    "lensa mata putih",
+    "mata katarak",
+    "penglihatan berawan",
+    "mata mripat keruh"
+  ],
+  "congestion in chest": [
+    "kongesti dada",
+    "dada penuh lendir",
+    "dada sesak berdahak",
+    "paru paru penuh dahak",
+    "dada terasa mampet"
+  ],
+  "constipation": [
+    "konstipasi",
+    "sembelit",
+    "susah buang air besar",
+    "susah bab",
+    "bebelen",
+    "bab keras",
+    "kurang lancar bab"
+  ],
+  "coryza": [
+    "koriza",
+    "pilek",
+    "flu",
+    "hidung meler",
+    "ingusan",
+    "hidung tersumbat",
+    "selesma"
+  ],
+  "cough": [
+    "batuk",
+    "batuk batuk",
+    "sering batuk",
+    "gatal tenggorokan batuk",
+    "batuk kering",
+    "batuk tidak berdahak",
+    "batuk gatel tenggorokan",
+    "batuk terus terusan"
+  ],
+  "coughing up sputum": [
+    "batuk berdahak",
+    "batuk keluar lendir",
+    "batuk ada dahaknya",
+    "batuk mbecek",
+    "batuk keluar ingus",
+    "batuk dahak kental",
+    "batuk berlendir",
+    "batuk riak"
+  ],
+  "cramps and spasms": [
+    "kram",
+    "spasme",
+    "kejang otot",
+    "otot kaku mendadak",
+    "kedutan kejang",
+    "kram kram"
+  ],
+  "cross-eyed": [
+    "strabismus",
+    "mata juling",
+    "juling",
+    "mata tidak sejajar",
+    "pandangan juling"
+  ],
+  "decreased appetite": [
+    "anoreksia",
+    "penurunan nafsu makan",
+    "tidak nafsu makan",
+    "kurang nafsu makan",
+    "gajelas mau makan apa",
+    "ga doyan makan",
+    "malas makan",
+    "hilang nafsu makan"
+  ],
+  "decreased heart rate": [
+    "bradikardia",
+    "denyut jantung lambat",
+    "detak jantung melemah",
+    "jantung berdetak pelan",
+    "detak jantung rendah",
+    "nadi lambat"
+  ],
+  "delusions or hallucinations": [
+    "delusi",
+    "halusinasi",
+    "waham",
+    "halu",
+    "melihat hal gaib",
+    "mendengar bisikan",
+    "berpikiran aneh",
+    "salah anggapan",
+    "paranoia parah"
+  ],
+  "depression": [
+    "depresi",
+    "gangguan depresi",
+    "stres berat",
+    "depresif",
+    "sedih berkepanjangan",
+    "putus asa",
+    "kesehatan mental terganggu"
+  ],
+  "depressive or psychotic symptoms": [
+    "gejala depresif",
+    "gejala psikotik",
+    "gejala gila",
+    "gangguan mental parah",
+    "sering melamun sedih",
+    "bicara sendiri",
+    "kehilangan kontak realitas"
+  ],
+  "diaper rash": [
+    "ruam popok",
+    "dermatitis popok",
+    "kulit bayi kemerahan",
+    "pantat bayi lecet popok",
+    "ruam susu",
+    "biang keringat popok"
+  ],
+  "diarrhea": [
+    "diare",
+    "mencret",
+    "buang air besar cair",
+    "bab terus menerus",
+    "menceret",
+    "mencret mencret",
+    "urus urus",
+    "sakit perut bab cair"
+  ],
+  "difficulty breathing": [
+    "dispnea",
+    "kesulitan bernapas",
+    "sesak napas",
+    "susah napas",
+    "napas berat",
+    "engap",
+    "megap megap",
+    "napas pendek"
+  ],
+  "difficulty eating": [
+    "kesulitan makan",
+    "susah makan",
+    "tidak bisa masuk makanan",
+    "muntah tiap makan",
+    "gagal makan"
+  ],
+  "difficulty in swallowing": [
+    "disfagia",
+    "kesulitan menelan",
+    "susah menelan",
+    "sakit pas menelan",
+    "tenggorokan ganjel pas makan",
+    "nyeri menelan"
+  ],
+  "difficulty speaking": [
+    "disartria",
+    "kesulitan berbicara",
+    "susah ngomong",
+    "bicara tidak jelas",
+    "gagu mendadak",
+    "pelo",
+    "ngomong rariut",
+    "bicara berat"
+  ],
+  "diminished hearing": [
+    "penurunan pendengaran",
+    "pendengaran berkurang",
+    "tuli sebagian",
+    "kurang dengar",
+    "telinga budeg mendadak",
+    "kuping pengang",
+    "budek"
+  ],
+  "diminished vision": [
+    "penurunan penglihatan",
+    "penglihatan berkurang",
+    "mata kabur",
+    "pandangan buram",
+    "mata blawur",
+    "pandangan tidak jelas",
+    "rabun"
+  ],
+  "discharge in stools": [
+    "lendir dalam tinja",
+    "bab berlendir",
+    "feses ada lendirnya",
+    "tinja keluar lendir",
+    "berak lendir"
+  ],
+  "disturbance of memory": [
+    "gangguan memori",
+    "gangguan ingatan",
+    "sering lupa",
+    "pikun",
+    "mudah lupa",
+    "linglung",
+    "kehilangan ingatan short term"
+  ],
+  "disturbance of smell or taste": [
+    "anosmia",
+    "ageusia",
+    "gangguan penciuman",
+    "gangguan indra perasa",
+    "mati rasa lidah",
+    "tidak bisa mencium bau",
+    "hambar",
+    "ga rasain makanan"
+  ],
+  "dizziness": [
+    "pusing",
+    "puyeng",
+    "keliyengan",
+    "vertigo",
+    "kepala muter",
+    "sakit kepala berputar",
+    "kliyengan",
+    "kepala kliyengan"
+  ],
+  "double vision": [
+    "diplopia",
+    "penglihatan ganda",
+    "melihat bayangan kembar",
+    "pandangan berbayang",
+    "melihat satu jadi dua"
+  ],
+  "drainage in throat": [
+    "post nasal drip",
+    "lendir di tenggorokan",
+    "dahak mengalir di tenggorokan",
+    "tenggorokan gatal berlendir",
+    "seperti ada riak tertahan"
+  ],
+  "drug abuse": [
+    "penyalahgunaan obat",
+    "penyalahgunaan narkoba",
+    "pecandu narkoba",
+    "sakaw",
+    "ketergantungan obat terlarang",
+    "pemakai obat",
+    "penyalahgunaan zat"
+  ],
+  "dry lips": [
+    "bibir kering",
+    "bibir pecah pecah",
+    "bibir mengelupas",
+    "bibir garing",
+    "bibir pecah"
+  ],
+  "dry or flaky scalp": [
+    "kulit kepala kering",
+    "kulit kepala mengelupas",
+    "ketombean parah",
+    "ketombe",
+    "kulit kepala bersisik"
+  ],
+  "ear pain": [
+    "otalgia",
+    "nyeri telinga",
+    "sakit telinga",
+    "kuping sakit",
+    "telinga nyut nyutan",
+    "sakit kuping"
+  ],
+  "early or late onset of menopause": [
+    "menopause dini",
+    "menopause terlambat",
+    "telat menopause",
+    "menopause kecepetan",
+    "berhenti haid awal"
+  ],
+  "elbow cramps or spasms": [
+    "spasme sikut",
+    "kram siku",
+    "siku kram mendadak",
+    "otot sikut kejang",
+    "siku kaku ketarik"
+  ],
+  "elbow lump or mass": [
+    "massa siku",
+    "benjolan di siku",
+    "siku benjol",
+    "ucleng di sikut",
+    "ada daging tumbuh di siku"
+  ],
+  "elbow pain": [
+    "nyeri siku",
+    "sakit siku",
+    "siku sakit",
+    "sikut linu",
+    "nyeri sikut"
+  ],
+  "elbow stiffness or tightness": [
+    "kaku pada siku",
+    "siku kaku",
+    "sikut tegang",
+    "siku kencang susah ditekuk",
+    "sikut stiff"
+  ],
+  "elbow swelling": [
+    "edema siku",
+    "siku bengkak",
+    "sikut bengkak",
+    "bengkak di siku",
+    "sikut membengkak",
+    "sikut gemuk sebelah"
+  ],
+  "elbow weakness": [
+    "kelemahan siku",
+    "siku lemas",
+    "sikut letoy",
+    "siku tidak bertenaga",
+    "sikut lemah untuk ngangkat"
+  ],
+  "emotional symptoms": [
+    "gejala emosional",
+    "suasana hati tidak stabil",
+    "emosi tidak stabil",
+    "mood swings",
+    "gampang nangis",
+    "sensitif parah",
+    "baperan"
+  ],
+  "excessive anger": [
+    "marah berlebihan",
+    "mudah marah",
+    "gampang ngamuk",
+    "temperamental",
+    "darah tinggi",
+    "gampang emosi",
+    "senggol bacok"
+  ],
+  "excessive appetite": [
+    "hiperfagia",
+    "nafsu makan berlebihan",
+    "maruk makan",
+    "gila makan",
+    "laperan terus",
+    "bawaannya pengen makan",
+    "makan banyak banget"
+  ],
+  "excessive growth": [
+    "gigantisme",
+    "pertumbuhan berlebihan",
+    "tumbuh terlalu cepat",
+    "badan bongsor mendadak",
+    "terlalu tinggi"
+  ],
+  "excessive urination at night": [
+    "nokturia",
+    "sering kencing malam hari",
+    "sering pipis pas tidur",
+    "pipis bolak balik tiap malam",
+    "kebangun malam buat pipis"
+  ],
+  "eye burns or stings": [
+    "mata terasa membakar",
+    "mata perih",
+    "mata panas",
+    "mata kayak kena sabun",
+    "mata nyes perih",
+    "mata sepet perih"
+  ],
+  "eye deviation": [
+    "deviasi mata",
+    "mata juling",
+    "arah mata melenceng",
+    "posisi mata tidak simetris",
+    "mata miring",
+    "mata lari ke sudut"
+  ],
+  "eye moves abnormally": [
+    "nistagmus",
+    "gerakan mata abnormal",
+    "mata bergerak sendiri",
+    "bola mata kedut kedut",
+    "mata lari lari sendiri"
+  ],
+  "eye redness": [
+    "mata merah",
+    "mata memerah",
+    "konjungtivitas",
+    "mata iritasi merah",
+    "mripat abang",
+    "mata belekan merah"
+  ],
+  "eye strain": [
+    "asthenopia",
+    "mata lelah",
+    "mata tegang",
+    "mata capek",
+    "mata sepet",
+    "lelah karena layar"
+  ],
+  "eyelid lesion or rash": [
+    "lesi kelopak mata",
+    "ruam kelopak mata",
+    "bintitan",
+    "kelopak mata bintilan",
+    "ada benjolan kecil di kelopak mata",
+    "kelopak mata bruntusan",
+    "kalazion"
+  ],
+  "eyelid retracted": [
+    "retraksi kelopak mata",
+    "kelopak mata tertarik ke atas",
+    "mata melotot",
+    "kelopak mata tidak bisa menutup sempurna",
+    "mata mencorong"
+  ],
+  "eyelid swelling": [
+    "edema kelopak mata",
+    "kelopak mata bengkak",
+    "mata bengkak",
+    "kelopak mata sembab",
+    "mata sembap"
+  ],
+  "facial pain": [
+    "nyeri wajah",
+    "sakit wajah",
+    "muka sakit",
+    "sakit di area muka",
+    "nyeri rahang dan wajah",
+    "muka linu"
+  ],
+  "fainting": [
+    "sinkop",
+    "pingsan",
+    "hilang kesadaran",
+    "tidak sadarkan diri",
+    "ambruk",
+    "pingsan mendadak",
+    "teler pasrah"
+  ],
+  "fatigue": [
+    "kelelahan",
+    "lelah",
+    "letih",
+    "lesu",
+    "lemas",
+    "gampang capek",
+    "kurang energi",
+    "fatik",
+    "badan jompo",
+    "loyo"
+  ],
+  "fears and phobias": [
+    "ketakutan",
+    "fobia",
+    "takut berlebihan",
+    "trauma",
+    "paranoid",
+    "ciut",
+    "parno",
+    "pobia"
+  ],
+  "feeling cold": [
+    "merasa dingin",
+    "kedinginan",
+    "merasa menggigil",
+    "badan adem",
+    "sensitif dingin"
+  ],
+  "feeling hot": [
+    "merasa panas",
+    "kepanasan",
+    "gerah",
+    "badan terasa hangat",
+    "sumeng",
+    "hot flashes"
+  ],
+  "feeling hot and cold": [
+    "merasa panas dingin",
+    "meriang",
+    "badan tidak menentu",
+    "panas dingin",
+    "demam meriang",
+    "greges greges"
+  ],
+  "feeling ill": [
+    "merasa sakit",
+    "tidak enak badan",
+    "kurang sehat",
+    "merasa sakit",
+    "drop",
+    "kurang fit",
+    "mau sakit"
+  ],
+  "feet turned in": [
+    "kaki pengkor ke dalam",
+    "kaki jinjit ke dalam",
+    "metatarsus varus",
+    "telapak kaki menghadap ke dalam",
+    "kaki letter x"
+  ],
+  "fever": [
+    "demam",
+    "panas badan",
+    "badan panas",
+    "suhu tubuh tinggi",
+    "sumeng",
+    "meriang panas"
+  ],
+  "flatulence": [
+    "flatulensi",
+    "sering kentut",
+    "buang angin terus",
+    "gassy",
+    "banyak gas di perut",
+    "kentut kentut"
+  ],
+  "flu-like syndrome": [
+    "sindrom mirip flu",
+    "gejala flu",
+    "gejala masuk angin",
+    "meriang batuk pilek",
+    "badan pegal linu flu"
+  ],
+  "fluid in ear": [
+    "cairan di telinga",
+    "telinga berair",
+    "kuping berair",
+    "keluar cairan dari kuping",
+    "telinga meler",
+    "congean"
+  ],
+  "fluid retention": [
+    "retensi cairan",
+    "penumpukan cairan",
+    "tubuh bengkak air",
+    "edema",
+    "badan membengkak"
+  ],
+  "flushing": [
+    "wajah memerah",
+    "muka merah merona",
+    "kulit memerah mendadak",
+    "muka kepanasan merah",
+    "blushing"
+  ],
+  "focal weakness": [
+    "kelemahan fokal",
+    "lemas sebagian tubuh",
+    "lemas sebelah",
+    "tangan atau kaki lemas sesisi",
+    "gejala stroke ringan",
+    "lemas terlokalisir"
+  ],
+  "foot or toe cramps or spasms": [
+    "kram kaki",
+    "kram jari kaki",
+    "kaki kram mendadak",
+    "jempol kaki kaku ketarik",
+    "kejang otot kaki"
+  ],
+  "foot or toe lump or mass": [
+    "massa kaki",
+    "benjolan di kaki",
+    "benjolan jari kaki",
+    "mata ikan",
+    "ucleng di kaki",
+    "ada daging tumbuh di telapak kaki"
+  ],
+  "foot or toe pain": [
+    "nyeri kaki",
+    "sakit kaki",
+    "nyeri jari kaki",
+    "telapak kaki sakit",
+    "jempol kaki senut senut",
+    "kaki linu"
+  ],
+  "foot or toe stiffness or tightness": [
+    "kaku pada kaki",
+    "kaki kaku",
+    "jari kaki kaku",
+    "telapak kaki tegang",
+    "kaki stiff"
+  ],
+  "foot or toe swelling": [
+    "edema kaki",
+    "kaki bengkak",
+    "jari kaki bengkak",
+    "telapak kaki membengkak",
+    "kaki gajah",
+    "telapak kaki bengkak"
+  ],
+  "foot or toe weakness": [
+    "kelemahan kaki",
+    "kaki lemas",
+    "jari kaki letoy",
+    "kaki lumpuh sebagian",
+    "kaki tidak bertenaga untuk jalan"
+  ],
+  "foreign body sensation in eye": [
+    "sensasi benda asing di mata",
+    "mata terasa diganjal",
+    "mata kelilipan",
+    "seperti ada pasir di mata",
+    "mata ganjel",
+    "kelilipan"
+  ],
+  "frequent menstruation": [
+    "polimenore",
+    "menstruasi sering",
+    "haid terlalu sering",
+    "jarak haid dekat",
+    "sebulan bisa dua kali haid",
+    "haid berulang kali"
+  ],
+  "frequent urination": [
+    "sering buang air kecil",
+    "sering kencing",
+    "sering pipis",
+    "beser",
+    "pipis bolak balik",
+    "kencing terus menerus",
+    "anyang anyangan"
+  ],
+  "frontal headache": [
+    "sakit kepala frontal",
+    "sakit kepala bagian depan",
+    "sakit kepala di jidat",
+    "pusing bagian depan",
+    "jidat senut senut"
+  ],
+  "groin mass": [
+    "massa selangkangan",
+    "benjolan di selangkangan",
+    "turun berok",
+    "hernia selangkangan",
+    "selangkangan benjol"
+  ],
+  "groin pain": [
+    "nyeri selangkangan",
+    "sakit selangkangan",
+    "selangkangan linu",
+    "nyeri lipatan paha",
+    "selangkangan sakit buat jalan"
+  ],
+  "gum pain": [
+    "nyeri gusi",
+    "gusi sakit",
+    "gusi linu",
+    "gusi bengkak sakit",
+    "gusi senut senut"
+  ],
+  "hand or finger cramps or spasms": [
+    "kram tangan",
+    "kram jari tangan",
+    "tangan kaku mendadak",
+    "jari tangan kaku ketarik",
+    "kejang otot tangan"
+  ],
+  "hand or finger lump or mass": [
+    "massa tangan",
+    "benjolan di tangan",
+    "benjolan jari tangan",
+    "ganglion",
+    "ucleng di tangan",
+    "tangan benjol"
+  ],
+  "hand or finger pain": [
+    "nyeri tangan",
+    "sakit tangan",
+    "nyeri jari tangan",
+    "jari tangan senut senut",
+    "tangan linu"
+  ],
+  "hand or finger stiffness or tightness": [
+    "kaku pada tangan",
+    "tangan kaku",
+    "jari tangan kaku",
+    "tangan stiff susah ditekuk",
+    "jari tangan kaku pagi hari"
+  ],
+  "hand or finger swelling": [
+    "edema tangan",
+    "tangan bengkak",
+    "jari tangan bengkak",
+    "tangan membengkak",
+    "jari tangan gemuk",
+    "tangan bengkak kaku"
+  ],
+  "hand or finger weakness": [
+    "kelemahan tangan",
+    "tangan lemas",
+    "jari tangan letoy",
+    "tangan tidak bertenaga",
+    "tidak kuat memegang",
+    "tangan drop"
+  ],
+  "headache": [
+    "sakit kepala",
+    "pusing",
+    "kepala pusing",
+    "kepala berat",
+    "migraine",
+    "puyeng",
+    "pusing nyut nyutan"
+  ],
+  "heartburn": [
+    "heartburn",
+    "sensasi terbakar di dada",
+    "ulu hati panas",
+    "asam lambung naik",
+    "dada panas karena lambung",
+    "perih ulu hati"
+  ],
+  "heavy menstrual flow": [
+    "menoragia",
+    "menstruasi berat",
+    "darah haid banyak",
+    "haid banjir",
+    "ganti pembalut berkali kali",
+    "darah haid keluar banyak banget"
+  ],
+  "hemoptysis": [
+    "hemoptisis",
+    "batuk berdarah",
+    "batuk keluar darah",
+    "muntah darah saat batuk",
+    "dahak campur darah",
+    "batuk darah merah segar"
+  ],
+  "hesitancy": [
+    "hesitansi urine",
+    "susah memulai kencing",
+    "pipis tersendat",
+    "pipis harus mengejan",
+    "kencing tidak lancar keluar",
+    "pipis mampet awal"
+  ],
+  "hip lump or mass": [
+    "massa pinggul",
+    "benjolan di pinggul",
+    "pinggul benjol",
+    "ada daging tumbuh di pinggul",
+    "panggul ada tonjolannya",
+    "pinggul ada benjolan keras"
+  ],
+  "hip pain": [
+    "nyeri pinggul",
+    "sakit pinggul",
+    "pinggul linu",
+    "panggul sakit",
+    "pinggul terasa sakit buat duduk",
+    "panggul linu buat jalan"
+  ],
+  "hip stiffness or tightness": [
+    "kaku pada pinggul",
+    "pinggul kaku",
+    "panggul kaku susah digerakkan",
+    "pinggul tegang",
+    "pinggul stiff"
+  ],
+  "hip swelling": [
+    "edema pinggul",
+    "pinggul bengkak",
+    "panggul membengkak",
+    "pinggul membengkak",
+    "panggul bengkak sebelah",
+    "pinggul besar sebelah"
+  ],
+  "hip weakness": [
+    "kelemahan pinggul",
+    "pinggul lemas",
+    "pinggul letoy",
+    "pinggul tidak kuat menopang",
+    "panggul lemas"
+  ],
+  "hoarse voice": [
+    "suara serak",
+    "serak",
+    "suara hilang",
+    "suara parau",
+    "suara habis"
+  ],
+  "hostile behavior": [
+    "perilaku bermusuhan",
+    "agresif",
+    "suka menantang",
+    "mudah menyerang",
+    "gampang ngajak berantem",
+    "galak",
+    "suka cari ribut"
+  ],
+  "hot flashes": [
+    "hot flashes",
+    "sensasi panas mendadak",
+    "tubuh rasa kepanasan tiba tiba",
+    "semburan panas",
+    "gerah mendadak karena menopause"
+  ],
+  "hurts to breath": [
+    "nyeri saat bernapas",
+    "sakit pas napas",
+    "napas terasa sakit",
+    "dada nyeri kalau napas",
+    "napas nyesek sakit",
+    "dada linu pas narik napas"
+  ],
+  "hysterical behavior": [
+    "perilaku histeris",
+    "histeris",
+    "teriak histeris",
+    "mengamuk tidak terkontrol",
+    "tantrum parah",
+    "reaksi emosional berlebihan"
+  ],
+  "impotence": [
+    "impotensi",
+    "disfungsi ereksi",
+    "lemah syahwat",
+    "disfungsi seksual",
+    "burung ga bisa bangun",
+    "loyo di ranjang",
+    "alat vital lembek"
+  ],
+  "incontinence of stool": [
+    "inkontinensia alvi",
+    "tidak bisa menahan bab",
+    "bab kecirit",
+    "cebirit",
+    "feses keluar sendiri",
+    "brojol bab tanpa sadar"
+  ],
+  "increased heart rate": [
+    "takikardia",
+    "denyut jantung meningkat",
+    "detak jantung cepat",
+    "jantung berdebar debar",
+    "deg degan parah",
+    "jantung mondar mandir",
+    "jantungan",
+    "deg degan kencang"
+  ],
+  "infant feeding problem": [
+    "masalah menyusui bayi",
+    "bayi susah minum susu",
+    "bayi menolak asi",
+    "bayi tidak mau nyusu",
+    "masalah makan pada bayi"
+  ],
+  "infant spitting up": [
+    "bayi gumoh",
+    "gumoh",
+    "bayi muntah susu",
+    "bayi muntah sedikit setelah menyusu",
+    "muntah asi"
+  ],
+  "infertility": [
+    "infertilitas",
+    "kemandulan",
+    "mandul",
+    "susah punya anak",
+    "tidak subur",
+    "belum punya keturunan"
+  ],
+  "infrequent menstruation": [
+    "oligomenore",
+    "menstruasi jarang",
+    "haid tidak teratur jarang",
+    "jarang datang bulan",
+    "haid beberapa bulan sekali baru dapet"
+  ],
+  "insomnia": [
+    "insomnia",
+    "gangguan tidur",
+    "susah tidur",
+    "tidak bisa tidur",
+    "sulit tidur malam",
+    "begadang terus",
+    "ga bisa merem"
+  ],
+  "intermenstrual bleeding": [
+    "metroragia",
+    "perdarahan di luar masa haid",
+    "flek di luar mentruasi",
+    "berdarah padahal bukan jadwal haid",
+    "keluar darah setelah haid bersih"
+  ],
+  "involuntary urination": [
+    "inkontinensia urine",
+    "tidak bisa menahan pipis",
+    "pipis kecirit",
+    "pipis keluar sendiri",
+    "sering mengompol tanpa sadar",
+    "kebeseran"
+  ],
+  "irregular appearing nails": [
+    "kelainan tampilan kuku",
+    "kuku bentuknya aneh",
+    "kuku rusak",
+    "kuku bergaris",
+    "kuku rapuh dan bergelombang",
+    "kuku cantengan"
+  ],
+  "irregular appearing scalp": [
+    "kelainan tampilan kulit kepala",
+    "kulit kepala aneh",
+    "kulit kepala korengan",
+    "kulit kepala pitak",
+    "kulit kepala luka luka bersisik"
+  ],
+  "irregular belly button": [
+    "kelainan bentuk pusar",
+    "pusar bentuknya aneh",
+    "pusar bodong mendadak",
+    "pusar keluar cairan",
+    "pusar bengkak"
+  ],
+  "irregular heartbeat": [
+    "aritmia",
+    "palpitasi",
+    "detak jantung tidak teratur",
+    "jantung berdebar aneh",
+    "detak jantung kadang cepat kadang lambat",
+    "jantung seperti lompat"
+  ],
+  "irritable infant": [
+    "bayi rewel",
+    "bayi gampang menangis",
+    "bayi nangis terus",
+    "bayi tidak tenang",
+    "bayi rewel tanpa sebab"
+  ],
+  "itchiness of eye": [
+    "mata gatal",
+    "mata terasa gatal",
+    "mripat gatel",
+    "mata gatal pengen dikucek",
+    "mata gatal merah",
+    "mata gatel terus"
+  ],
+  "itching of scrotum": [
+    "gatal pada skrotum",
+    "gatal buah zakar",
+    "telur kutil gatal",
+    "biji kemaluan gatal",
+    "selangkangan kantong kemih gatal"
+  ],
+  "itching of skin": [
+    "pruritus",
+    "gatal gatal pada kulit",
+    "kulit gatal",
+    "badan gatal gatal",
+    "gatel kulit"
+  ],
+  "itching of the anus": [
+    "pruritus ani",
+    "gatal pada anus",
+    "pantat gatal",
+    "lubang bab gatal",
+    "silit gatel",
+    "anus gatal"
+  ],
+  "itchy ear(s)": [
+    "telinga gatal",
+    "kuping gatal",
+    "dalam telinga terasa gatal",
+    "kuping gatel",
+    "gatal di dalam kuping",
+    "kuping gatal banget"
+  ],
+  "itchy eyelid": [
+    "kelopak mata gatal",
+    "mata bagian atas gatal",
+    "kelopak mata gatel",
+    "kelopak mata gatal merah",
+    "kelopak gatel terus",
+    "mata bagian tutup gatal"
+  ],
+  "itchy scalp": [
+    "kulit kepala gatal",
+    "kepala gatal",
+    "rambut gatal",
+    "kepala gatel",
+    "rambut gatel terus",
+    "kepala gatal berkutu"
+  ],
+  "jaundice": [
+    "ikterus",
+    "penyakit kuning",
+    "badan kuning",
+    "mata kuning",
+    "kulit jadi kuning",
+    "sakit liver kuning"
+  ],
+  "jaw pain": [
+    "nyeri rahang",
+    "sakit rahang",
+    "rahang linu",
+    "sakit buat mengunyah",
+    "rahang senut senut",
+    "nyeri tmd"
+  ],
+  "jaw swelling": [
+    "edema rahang",
+    "rahang bengkak",
+    "pipi bawah bengkak",
+    "bengkak di rahang",
+    "rahang membengkak",
+    "pipi bawah jontor"
+  ],
+  "joint pain": [
+    "artralgia",
+    "nyeri sendi",
+    "sakit sendi",
+    "sendi linu linu",
+    "sakit di engsel tulang",
+    "tulang sendi sakit",
+    "nyeri persendian"
+  ],
+  "joint stiffness or tightness": [
+    "kaku sendi",
+    "sendi kaku",
+    "persendian tegang",
+    "sendi kaku pagi hari",
+    "sendi stiff susah digerakkan"
+  ],
+  "joint swelling": [
+    "edema sendi",
+    "sendi bengkak",
+    "persendian membengkak",
+    "bengkak di sendi",
+    "sendi bengkak merah",
+    "persendian berisi air"
+  ],
+  "kidney mass": [
+    "massa ginjal",
+    "benjolan ginjal",
+    "tumor ginjal",
+    "ada massa di area ginjal",
+    "ada benjolan di ginjal",
+    "pinggang ada tonjolan keras"
+  ],
+  "knee cramps or spasms": [
+    "spasme lutut",
+    "kram lutut",
+    "dengkul kram mendadak",
+    "otot lutut kejang",
+    "kram di dengkul"
+  ],
+  "knee lump or mass": [
+    "massa lutut",
+    "benjolan di lutut",
+    "lutut benjol",
+    "dengkul benjol",
+    "ucleng di lutut",
+    "kista baker"
+  ],
+  "knee pain": [
+    "nyeri lutut",
+    "sakit lutut",
+    "sakit dengkul",
+    "dengkul linu",
+    "lutut senut senut",
+    "nyeri dengkul buat sholat"
+  ],
+  "knee stiffness or tightness": [
+    "kaku pada lutut",
+    "lutut kaku",
+    "dengkul kaku",
+    "dengkul tegang",
+    "lutut kaku susah ditekuk",
+    "dengkul stiff"
+  ],
+  "knee swelling": [
+    "edema lutut",
+    "lutut bengkak",
+    "dengkul bengkak",
+    "bengkak di dengkul",
+    "lutut isi cairan"
+  ],
+  "knee weakness": [
+    "kelemahan lutut",
+    "lutut lemas",
+    "dengkul letoy",
+    "dengkul lemas",
+    "lutut tidak bertenaga",
+    "dengkul kopong",
+    "lutut sering mau lepas"
+  ],
+  "lack of growth": [
+    "gagal tumbuh",
+    "stunting",
+    "pertumbuhan terhambat",
+    "kurang tinggi",
+    "anak kuntet",
+    "badan kerdil"
+  ],
+  "lacrimation": [
+    "lakrimasi",
+    "mata berair",
+    "sering keluar air mata",
+    "mata mbrebes mili",
+    "air mata keluar terus"
+  ],
+  "leg cramps or spasms": [
+    "spasme kaki",
+    "kram kaki",
+    "betis kram mendadak",
+    "kaki kram pas tidur",
+    "kejang otot kaki"
+  ],
+  "leg lump or mass": [
+    "massa kaki",
+    "benjolan di kaki",
+    "betis benjol",
+    "paha benjol",
+    "ada daging tumbuh di kaki"
+  ],
+  "leg pain": [
+    "nyeri kaki",
+    "sakit kaki",
+    "kaki linu",
+    "paha sakit",
+    "betis senut senut",
+    "kaki pegal linu"
+  ],
+  "leg stiffness or tightness": [
+    "kaku pada kaki",
+    "kaki kaku",
+    "paha kaku",
+    "betis tegang kencang",
+    "kaki stiff"
+  ],
+  "leg swelling": [
+    "edema kaki",
+    "kaki bengkak",
+    "betis bengkak",
+    "paha membengkak",
+    "kaki bengkak air"
+  ],
+  "leg weakness": [
+    "kelemahan kaki",
+    "kaki lemas",
+    "kaki letoy",
+    "kaki tidak bertenaga",
+    "kaki lumpuh sebagian",
+    "jalan sering seret"
+  ],
+  "lip sore": [
+    "lesi bibir",
+    "sariawan di bibir",
+    "luka di bibir",
+    "bibir pecah berdarah",
+    "bibir borokan"
+  ],
+  "lip swelling": [
+    "edema bibir",
+    "bibir bengkak",
+    "bibir jontor",
+    "bibir membesar jontor",
+    "bibir bengkak alergi"
+  ],
+  "long menstrual periods": [
+    "menoragia",
+    "durasi haid lama",
+    "menstruasi berkepanjangan",
+    "haid lebih dari seminggu",
+    "haid lama tidak berhenti",
+    "haid berminggu minggu"
+  ],
+  "loss of sensation": [
+    "mati rasa",
+    "baal",
+    "kebas",
+    "hilang rasa",
+    "kesemutan mati rasa",
+    "tidak berasa apa apa",
+    "baal baal"
+  ],
+  "loss of sex drive": [
+    "penurunan libido",
+    "kehilangan gairah seksual",
+    "gairah seks menurun",
+    "tidak nafsu seks",
+    "libido drop",
+    "ga ada gairah ranjang"
+  ],
+  "low back cramps or spasms": [
+    "spasme otot punggung bawah",
+    "kram punggung bawah",
+    "kram pinggang",
+    "pinggang bawah kejang mendadak",
+    "otot pinggang ketarik"
+  ],
+  "low back pain": [
+    "nyeri punggung bawah",
+    "sakit punggung bawah",
+    "sakit pinggang",
+    "nyeri pinggang bawah",
+    "boyokan",
+    "sakit boyok",
+    "encok pinggang"
+  ],
+  "low back stiffness or tightness": [
+    "kaku pada punggung bawah",
+    "punggung bawah kaku",
+    "pinggang kaku",
+    "pinggang bawah tegang",
+    "boyok kaku susah membungkuk",
+    "pinggang stiff"
+  ],
+  "low back swelling": [
+    "edema punggung bawah",
+    "punggung bawah bengkak",
+    "pinggang bengkak",
+    "bengkak di pinggang belakang",
+    "pinggang bawah membengkak",
+    "punggung bawah kembung bengkak"
+  ],
+  "low back weakness": [
+    "kelemahan punggung bawah",
+    "punggung bawah lemas",
+    "pinggang lemas",
+    "boyok letoy",
+    "pinggang tidak bertenaga untuk tegak"
+  ],
+  "low self-esteem": [
+    "harga diri rendah",
+    "kurang percaya diri",
+    "krisis percaya diri",
+    "minder",
+    "insecure",
+    "merasa tidak berharga",
+    "minderan"
+  ],
+  "low urine output": [
+    "oliguria",
+    "urin sedikit",
+    "volume urin berkurang",
+    "jarang kencing",
+    "pipis cuma sedikit",
+    "air kencing keluar sedikit banget"
+  ],
+  "lower abdominal pain": [
+    "nyeri perut bawah",
+    "sakit perut bawah",
+    "nyeri ari ari",
+    "sakit di bawah pusar",
+    "kram perut bawah",
+    "sakit perut bagian bawah"
+  ],
+  "lower body pain": [
+    "nyeri tubuh bagian bawah",
+    "sakit pinggang ke bawah",
+    "kaki dan pinggul linu",
+    "seluruh badan bawah sakit",
+    "kaki kaki linu pegal"
+  ],
+  "lump in throat": [
+    "globus pharyngeus",
+    "sensasi benjolan di tenggorokan",
+    "tenggorokan terasa mengganjal",
+    "seperti ada yang nyangkut di tenggorokan",
+    "tenggorokan ganjel"
+  ],
+  "lump or mass of breast": [
+    "massa payudara",
+    "benjolan payudara",
+    "tumor payudara",
+    "ada benjolan di susu",
+    "payudara benjol",
+    "ucleng di payudara",
+    "kanker payudara"
+  ],
+  "lump over jaw": [
+    "massa rahang",
+    "benjolan di rahang",
+    "rahang benjol",
+    "ucleng di rahang",
+    "ada benjolan di tulang pipi bawah"
+  ],
+  "lymphedema": [
+    "limfedema",
+    "pembengkakan kelenjar getah bening",
+    "bengkak limfa",
+    "lengan bengkak cairan",
+    "kaki bengkak cairan limfa"
+  ],
+  "mass in scrotum": [
+    "massa skrotum",
+    "benjolan di kantong kemaluan",
+    "biji kemaluan benjol",
+    "benjolan buah zakar",
+    "hidrokel",
+    "varikokel"
+  ],
+  "mass on ear": [
+    "massa telinga",
+    "benjolan di telinga",
+    "kuping benjol",
+    "ucleng di kuping",
+    "keloid telinga"
+  ],
+  "mass on eyelid": [
+    "massa kelopak mata",
+    "benjolan kelopak mata",
+    "bintitan parah",
+    "kalazion",
+    "ada daging tumbuh di kelopak mata"
+  ],
+  "mass on vulva": [
+    "massa vulva",
+    "benjolan di vagina",
+    "kista bartholin",
+    "benjolan bibir kemaluan",
+    "ada ucleng di alat kelamin wanita"
+  ],
+  "mass or swelling around the anus": [
+    "massa sekitar anus",
+    "bengkak sekitar anus",
+    "benjolan di anus",
+    "ambeyen",
+    "wasir",
+    "ada daging keluar di anus",
+    "silit bengkak"
+  ],
+  "melena": [
+    "melena",
+    "buang air besar hitam",
+    "bab hitam",
+    "feses warna hitam",
+    "berak hitam seperti kopi",
+    "feses hitam pekat"
+  ],
+  "mouth dryness": [
+    "xerostomia",
+    "mulut kering",
+    "rongga mulut kering",
+    "kurang ludah",
+    "mulut garing"
+  ],
+  "mouth pain": [
+    "nyeri mulut",
+    "sakit mulut",
+    "rongga mulut sakit",
+    "mulut linu linu",
+    "rongga mulut linu",
+    "mulut sakit semua"
+  ],
+  "mouth ulcer": [
+    "ulkus mulut",
+    "stomatitis",
+    "sariawan",
+    "luka di dalam mulut",
+    "sariawan banyak",
+    "mulut pecah pecah"
+  ],
+  "muscle cramps, contractures, or spasms": [
+    "kram otot",
+    "spasme otot",
+    "kejang otot",
+    "otot kaku mendadak",
+    "kejang kejang",
+    "otot ketarik kram"
+  ],
+  "muscle pain": [
+    "mialgia",
+    "nyeri otot",
+    "sakit otot",
+    "otot linu",
+    "otot pegal pegal",
+    "nyeri otot sebadan"
+  ],
+  "muscle stiffness or tightness": [
+    "kaku otot",
+    "otot kaku",
+    "otot tegang",
+    "otot kencang",
+    "otot stiff"
+  ],
+  "muscle swelling": [
+    "edema otot",
+    "otot bengkak",
+    "otot membesar bengkak",
+    "pembengkakan jaringan otot",
+    "otot bengkak keras",
+    "otot membesar abnormal"
+  ],
+  "muscle weakness": [
+    "kelemahan otot",
+    "otot lemas",
+    "otot letoy",
+    "tidak bertenaga",
+    "otot lemah",
+    "loyo"
+  ],
+  "nailbiting": [
+    "onifagia",
+    "menggigit kuku",
+    "hobi gigit kuku",
+    "kebiasaan gigit jari",
+    "gigitin kuku"
+  ],
+  "nasal congestion": [
+    "kongesti hidung",
+    "hidung tersumbat",
+    "hidung mampet",
+    "susah napas lewat hidung",
+    "hidung buntu"
+  ],
+  "nausea": [
+    "mual",
+    "enek",
+    "muntah muntah",
+    "perut mual",
+    "rasa ingin muntah",
+    "neg",
+    "enek perut",
+    "mual mual"
+  ],
+  "neck cramps or spasms": [
+    "spasme leher",
+    "kram leher",
+    "leher kejang",
+    "otot leher ketarik mendadak",
+    "leher kram"
+  ],
+  "neck mass": [
+    "massa leher",
+    "benjolan di leher",
+    "kelenjar leher membengkak",
+    "leher benjol",
+    "ucleng di leher",
+    "struma",
+    "gondokan"
+  ],
+  "neck pain": [
+    "nyeri leher",
+    "sakit leher",
+    "leher linu",
+    "leher cengeng",
+    "sakit leher belakang",
+    "cengeng leher"
+  ],
+  "neck stiffness or tightness": [
+    "kaku kuduk",
+    "kaku pada leher",
+    "leher kaku",
+    "leher tegang",
+    "salah bantal",
+    "leher stiff susah nengok",
+    "leher kaku"
+  ],
+  "neck swelling": [
+    "edema leher",
+    "leher bengkak",
+    "pembengkakan leher",
+    "leher membesar",
+    "leher bengkak keras",
+    "leher gendut sebelah"
+  ],
+  "neck weakness": [
+    "kelemahan leher",
+    "leher lemas",
+    "leher letoy",
+    "leher tidak kuat tegak",
+    "leher lunglai"
+  ],
+  "nightmares": [
+    "mimpi buruk",
+    "sering mimpi buruk",
+    "igauan buruk",
+    "bunga tidur menyeramkan",
+    "mimpi seram"
+  ],
+  "nose deformity": [
+    "deformitas hidung",
+    "kelainan bentuk hidung",
+    "hidung bengkok",
+    "hidung patah",
+    "tulang hidung miring"
+  ],
+  "nosebleed": [
+    "epistaksis",
+    "mimisan",
+    "hidung berdarah",
+    "keluar darah dari hidung",
+    "mimisen"
+  ],
+  "obsessions and compulsions": [
+    "obsesif kompulsif",
+    "ocd",
+    "dorongan berulang",
+    "kebiasaan bolak balik ngecek",
+    "pola pikir berulang",
+    "harus rapih berlebihan",
+    "gelisah kalau ga simetris"
+  ],
+  "pain during intercourse": [
+    "dispareunia",
+    "nyeri saat berhubungan",
+    "sakit pas intim",
+    "berhubungan badan sakit",
+    "nyeri saat bersenggama"
+  ],
+  "pain during pregnancy": [
+    "nyeri saat hamil",
+    "sakit pas hamil",
+    "perut kram saat hamil",
+    "nyeri punggung kehamilan",
+    "nyeri pinggang hamil",
+    "sakit perut waktu hamil"
+  ],
+  "pain in eye": [
+    "nyeri mata",
+    "sakit mata",
+    "mata senut senut",
+    "mripat sakit",
+    "mata linu di dalam"
+  ],
+  "pain in gums": [
+    "nyeri gusi",
+    "gusi sakit",
+    "gusi linu",
+    "gusi berdenyut sakit",
+    "sakit gusi"
+  ],
+  "pain in testicles": [
+    "nyeri testis",
+    "sakit buah zakar",
+    "biji kemaluan sakit",
+    "testis senut senut",
+    "kantong kemih pria nyeri"
+  ],
+  "pain of the anus": [
+    "nyeri anus",
+    "sakit di anus",
+    "pantat perih",
+    "lubang bab sakit",
+    "silit sakit",
+    "anus nyeri nyut nyutan"
+  ],
+  "pain or soreness of breast": [
+    "mastalgia",
+    "nyeri payudara",
+    "payudara sakit",
+    "susu linu",
+    "payudara nyeri kencang",
+    "susu senut senut"
+  ],
+  "painful menstruation": [
+    "dismenore",
+    "nyeri haid",
+    "sakit perut pas dapet",
+    "kram menstruasi",
+    "sakit haid",
+    "senggugut",
+    "nyeri datang bulan"
+  ],
+  "painful sinuses": [
+    "nyeri sinus",
+    "sinusitis sakit",
+    "area sekitar hidung pipi sakit",
+    "nyeri tulang wajah wajah sinus",
+    "wajah linu karena sinus",
+    "tulang pipi sakit sinus"
+  ],
+  "painful urination": [
+    "disuria",
+    "nyeri saat kencing",
+    "sakit pas pipis",
+    "kencing perih",
+    "pipis terasa terbakar",
+    "anyang anyangan sakit"
+  ],
+  "pallor": [
+    "pucat",
+    "muka pucat",
+    "kulit pucat pasi",
+    "pucat lesu",
+    "muka kayak gak ada darah"
+  ],
+  "palpitations": [
+    "palpitasi",
+    "jantung berdebar debar",
+    "deg degan",
+    "jantung jantungan",
+    "detak jantung kencang tanpa sebab",
+    "deg degan parah"
+  ],
+  "paresthesia": [
+    "parestesia",
+    "kesemutan",
+    "kebas kebas",
+    "baal",
+    "gringgingan",
+    "kesemutan parah"
+  ],
+  "pelvic pain": [
+    "nyeri panggul",
+    "sakit panggul",
+    "nyeri rongga panggul",
+    "panggul sakit bawah perut",
+    "panggul bagian dalam nyeri",
+    "nyeri bawah perut dalam"
+  ],
+  "pelvic pressure": [
+    "tekanan panggul",
+    "panggul terasa penuh",
+    "panggul rasa ketekan",
+    "vagina rasa turun berat",
+    "bawah perut terasa tertekan",
+    "berat di panggul"
+  ],
+  "penile discharge": [
+    "keluar cairan dari penis",
+    "penis meler",
+    "keluar nanah dari kemaluan",
+    "kencing nanah",
+    "gonore",
+    "penis keluar lendir aneh"
+  ],
+  "penis pain": [
+    "nyeri penis",
+    "sakit penis",
+    "alat vital pria sakit",
+    "kemaluan pria nyeri senut senut",
+    "ujung kemaluan pria sakit",
+    "batang penis linu"
+  ],
+  "penis redness": [
+    "penis kemerahan",
+    "alat vital pria merah iritasi",
+    "batang penis merah",
+    "kemaluan pria meradang merah",
+    "kemaluan pria merah perih",
+    "ujung penis merah"
+  ],
+  "peripheral edema": [
+    "edema perifer",
+    "pembengkakan kaki dan tangan",
+    "kaki bengkak air",
+    "tangan kaki membengkak",
+    "bengkak ujung anggota tubuh"
+  ],
+  "plugged feeling in ear": [
+    "telinga terasa tersumbat",
+    "kuping mampet",
+    "telinga seperti kemasukan air",
+    "kuping budek sebelah",
+    "sensasi penuh di telinga",
+    "kuping pengang"
+  ],
+  "polyuria": [
+    "poliuria",
+    "produksi urin berlebih",
+    "kencing berlebihan",
+    "pipis terus menerus",
+    "beser parah",
+    "pipis banyak banget"
+  ],
+  "poor circulation": [
+    "sirkulasi darah buruk",
+    "aliran darah tidak lancar",
+    "darah ga lancar",
+    "tangan kaki sering dingin kesemutan",
+    "aliran darah mampet"
+  ],
+  "postpartum problems of the breast": [
+    "masalah payudara pasca melahirkan",
+    "payudara bengkak setelah melahirkan",
+    "asi mampet",
+    "puting lecet menyusui",
+    "mastitis pasca melahirkan"
+  ],
+  "posture problems": [
+    "masalah postur tubuh",
+    "badan bungkuk",
+    "posisi tubuh tidak tegap",
+    "tulang belakang melengkung",
+    "postur jompo",
+    "skoliosis lordosis kifosis"
+  ],
+  "premature ejaculation": [
+    "ejakulasi dini",
+    "terlalu cepat keluar",
+    "plat pelat",
+    "gampang keluar pas intim",
+    "ejakulasi kecepetan",
+    "cepat crot"
+  ],
+  "premenstrual tension or irritability": [
+    "ketegangan premenstruasi",
+    "sindrom pms",
+    "pms",
+    "gampang marah pas pms",
+    "sensitif sebelum haid",
+    "mood pms berantakan"
+  ],
+  "problems during pregnancy": [
+    "masalah selama kehamilan",
+    "gangguan kehamilan",
+    "komplikasi hamil",
+    "hamil bermasalah",
+    "kandungan lemah"
+  ],
+  "problems with movement": [
+    "gangguan pergerakan",
+    "susah bergerak",
+    "jalan sempoyongan",
+    "gerakan kaku",
+    "motorik terganggu",
+    "susah gerak"
+  ],
+  "problems with orgasm": [
+    "anorgasmia",
+    "masalah orgasme",
+    "susah keluar pas intim",
+    "tidak bisa mencapai puncak",
+    "gangguan orgasme"
+  ],
+  "problems with shape or size of breast": [
+    "masalah bentuk payudara",
+    "masalah ukuran payudara",
+    "payudara besar sebelah",
+    "payudara kendur tidak normal",
+    "perubahan bentuk susu"
+  ],
+  "pulling at ears": [
+    "menarik narik telinga",
+    "sering megang kuping",
+    "anak sering betot kuping",
+    "menarik telinga sendiri karena gatal sakit",
+    "garuk garuk kuping",
+    "telinganya digosok terus"
+  ],
+  "pupils unequal": [
+    "anisokoria",
+    "pupil mata tidak sama besar",
+    "ukuran pupil mata beda",
+    "lingkaran hitam mata besar sebelah",
+    "pupil mata tidak simetris",
+    "mata hitamnya beda ukuran"
+  ],
+  "pus draining from ear": [
+    "otore purulen",
+    "telinga keluar nanah",
+    "kuping bernanah",
+    "congean nanah",
+    "keluar cairan bau dari kuping"
+  ],
+  "pus in sputum": [
+    "sputum purulen",
+    "dahak bernanah",
+    "batuk keluar dahak hijau kental",
+    "riak ada nanahnya",
+    "dahak berbau kental nanah"
+  ],
+  "pus in urine": [
+    "piuria",
+    "urin bernanah",
+    "kencing keluar nanah",
+    "pipis keruh bernanah",
+    "air kencing ada nanahnya"
+  ],
+  "recent pregnancy": [
+    "baru saja melahirkan",
+    "pasca melahirkan",
+    "baru melahirkan",
+    "habis bersalin",
+    "nifas"
+  ],
+  "recent weight loss": [
+    "penurunan berat badan drastis",
+    "bb turun cepat",
+    "berat badan merosot",
+    "kurus mendadak",
+    "timbangan turun banyak"
+  ],
+  "rectal bleeding": [
+    "perdarahan rektum",
+    "bab keluar darah segar",
+    "anus berdarah",
+    "berak darah segar",
+    "wasir berdarah parah"
+  ],
+  "redness in ear": [
+    "telinga kemerahan",
+    "kuping merah",
+    "daun telinga merah meradang",
+    "telinga iritasi merah",
+    "kuping merah panas",
+    "daun telinga merah"
+  ],
+  "redness in or around nose": [
+    "hidung kemerahan",
+    "sekitar hidung merah",
+    "cuping hidung meradang merah",
+    "hidung merah karena flu",
+    "hidung luar merah",
+    "area hidung memerah"
+  ],
+  "regurgitation": [
+    "regurgitasi",
+    "makanan naik lagi ke tenggorokan",
+    "gastroesophageal reflux",
+    "gumoh",
+    "makanan keluar lagi setelah ditelan"
+  ],
+  "regurgitation.1": [
+    "regurgitasi",
+    "makanan balik arah ke mulut",
+    "refluks makanan",
+    "terwelak",
+    "makanan naik ke ulu hati"
+  ],
+  "restlessness": [
+    "kegelisahan",
+    "gelisah",
+    "tidak bisa diam",
+    "uring uringan",
+    "resah",
+    "rasa tidak tenang",
+    "gundah gulana"
+  ],
+  "retention of urine": [
+    "retensi urin",
+    "tidak bisa kencing",
+    "pipis tertahan",
+    "susah keluar pipis",
+    "kencing mampet total",
+    "tidak bisa buang air kecil"
+  ],
+  "rib pain": [
+    "nyeri tulang rusuk",
+    "sakit tulang rusuk",
+    "iga sakit",
+    "nyeri iga",
+    "tulang dada samping linu",
+    "sakit rusuk"
+  ],
+  "ringing in ear": [
+    "tinitus",
+    "telinga berdenging",
+    "kuping berdengung",
+    "kuping nging",
+    "telinga bunyi nging terus"
+  ],
+  "scanty menstrual flow": [
+    "hipomenore",
+    "darah haid sedikit",
+    "menstruasi sedikit",
+    "haid cuma flek flek",
+    "dapet haid dikit banget"
+  ],
+  "seizures": [
+    "kejang",
+    "kejang kejang",
+    "epilepsi",
+    "ayan",
+    "saklar kejang",
+    "step",
+    "kelojotan"
+  ],
+  "sharp abdominal pain": [
+    "nyeri perut tajam",
+    "sakit perut melilit",
+    "perut seperti ditusuk tusuk",
+    "kram perut parah",
+    "sakit perut hebat senut senut"
+  ],
+  "sharp chest pain": [
+    "nyeri dada tajam",
+    "dada seperti ditusuk ditusuk",
+    "sakit dada hebat",
+    "dada senut senut tajam",
+    "nyeri dada menusuk"
+  ],
+  "shortness of breath": [
+    "dispnea",
+    "sesak napas",
+    "susah napas",
+    "napas pendek",
+    "engap",
+    "ngos ngosan",
+    "megap megap",
+    "napas berat"
+  ],
+  "shoulder cramps or spasms": [
+    "spasme bahu",
+    "kram bahu",
+    "pundak kram",
+    "otot bahu kejang mendadak",
+    "bahu kram ketarik"
+  ],
+  "shoulder lump or mass": [
+    "massa bahu",
+    "benjolan di bahu",
+    "pundak benjol",
+    "ucleng di bahu",
+    "ada daging tumbuh di pundak"
+  ],
+  "shoulder pain": [
+    "nyeri bahu",
+    "sakit bahu",
+    "sakit pundak",
+    "bahu linu",
+    "pundak pegal linu",
+    "nyeri pundak"
+  ],
+  "shoulder stiffness or tightness": [
+    "kaku pada bahu",
+    "bahu kaku",
+    "pundak tegang",
+    "pundak kaku susah digerakkan",
+    "bahu stiff",
+    "pundak kencang"
+  ],
+  "shoulder swelling": [
+    "edema bahu",
+    "bahu bengkak",
+    "pundak bengkak",
+    "pembengkakan di bahu",
+    "pundak membengkak",
+    "bahu bengkak membesar"
+  ],
+  "shoulder weakness": [
+    "kelemahan bahu",
+    "bahu lemas",
+    "pundak letoy",
+    "bahu tidak bertenaga",
+    "tangan susah diangkat dari bahu"
+  ],
+  "side pain": [
+    "nyeri panggul samping",
+    "sakit pinggang samping",
+    "perut samping sakit",
+    "nyeri iga samping",
+    "sakit rusuk samping"
+  ],
+  "sinus congestion": [
+    "kongesti sinus",
+    "sinus tersumbat",
+    "hidung mampet sinus",
+    "sinusitis mampet",
+    "muka terasa penuh tersumbat"
+  ],
+  "skin dryness, peeling, scaliness, or roughness": [
+    "kulit kering",
+    "kulit mengelupas",
+    "kulit bersisik",
+    "kulit kasar",
+    "kulit garing",
+    "kulit pecah pecah"
+  ],
+  "skin growth": [
+    "pertumbuhan kulit",
+    "daging tumbuh di kulit",
+    "kutil",
+    "skin tag",
+    "ada benjolan kulit abnormal"
+  ],
+  "skin irritation": [
+    "iritasi kulit",
+    "kulit kemerahan",
+    "kulit perih iritasi",
+    "kulit meradang",
+    "kulit lecet iritasi"
+  ],
+  "skin lesion": [
+    "lesi kulit",
+    "luka kulit",
+    "borok",
+    "koreng",
+    "kelainan jaringan kulit",
+    "luka terbuka di kulit"
+  ],
+  "skin moles": [
+    "tahi lalat",
+    "tahi lalat banyak",
+    "andeng andeng",
+    "nevus",
+    "banyak titik hitam di kulit",
+    "bercak coklat hitam tahi lalat"
+  ],
+  "skin oiliness": [
+    "kulit berminyak",
+    "muka berminyak",
+    "wajah kilang minyak",
+    "kulit oily",
+    "muka mbecek minyak"
+  ],
+  "skin on arm or hand looks infected": [
+    "infeksi kulit lengan",
+    "kulit tangan infeksi bernanah",
+    "tangan borokan",
+    "kulit lengan merah bengkak bernanah",
+    "lengan ada nanah luka",
+    "tangan bernanah meradang"
+  ],
+  "skin on head or neck looks infected": [
+    "infeksi kulit kepala",
+    "infeksi kulit leher",
+    "leher borokan",
+    "kulit kepala bernanah infeksi",
+    "kulit kepala borokan infeksi",
+    "leher kulit bernanah"
+  ],
+  "skin on leg or foot looks infected": [
+    "infeksi kulit kaki",
+    "kulit kaki bernanah infeksi",
+    "kaki borokan",
+    "selulitis kaki",
+    "kaki budukan parah"
+  ],
+  "skin pain": [
+    "nyeri kulit",
+    "kulit sakit",
+    "kulit terasa perih",
+    "kulit sensitif sakit kalau disentuh",
+    "kulit nyeri kalau ditekan",
+    "permukaan kulit sakit"
+  ],
+  "skin rash": [
+    "ruam kulit",
+    "bercak merah kulit",
+    "bruntusan kemerahan",
+    "eksem",
+    "kulit kemerahan gatal",
+    "alatan gatal"
+  ],
+  "skin swelling": [
+    "edema kulit",
+    "kulit bengkak",
+    "kulit membengkak",
+    "pembengkakan jaringan kulit",
+    "kulit bengkak menonjol",
+    "area kulit membengkak"
+  ],
+  "sleepiness": [
+    "hipersomnia",
+    "sering mengantuk",
+    "gampang ngantuk",
+    "ngantukan",
+    "teler",
+    "kurang segar bawaannya ngantuk"
+  ],
+  "sleepwalking": [
+    "somnambulisme",
+    "tidur berjalan",
+    "indigo tidur",
+    "jalan sambil tidur",
+    "ngelindur jalan"
+  ],
+  "slurring words": [
+    "disartria",
+    "bicara pelo",
+    "ngomong cadel mendadak",
+    "bicara tidak jelas slurring",
+    "ngomong rariut pelo"
+  ],
+  "smoking problems": [
+    "masalah merokok",
+    "kecanduan rokok",
+    "susah berhenti merokok",
+    "perokok berat",
+    "ketergantungan nikotin"
+  ],
+  "sneezing": [
+    "bersin bersin",
+    "sering bersin",
+    "wahing wahing",
+    "bersin terus",
+    "bersin bersin pagi",
+    "bersin tidak berhenti"
+  ],
+  "sore in nose": [
+    "lesi hidung",
+    "luka di dalam hidung",
+    "sariawan di hidung",
+    "hidung bagian dalam lecet",
+    "hidung borokan dalam"
+  ],
+  "sore throat": [
+    "faringitis",
+    "sakit tenggorokan",
+    "tenggorokan sakit",
+    "tenggorokan radang",
+    "nyeri tenggorokan",
+    "sakit buat menelan",
+    "tenggorokan serat"
+  ],
+  "spots or clouds in vision": [
+    "floaters",
+    "pandangan bercak bercak",
+    "melihat bintik terbang",
+    "penglihatan ada awan berkabut",
+    "ada bayangan di mata"
+  ],
+  "spotting or bleeding during pregnancy": [
+    "flek saat hamil",
+    "perdarahan saat hamil",
+    "keluar darah pas hamil",
+    "flek flek kehamilan",
+    "pendarahan kandungan",
+    "ngflek pas hamil"
+  ],
+  "stiffness all over": [
+    "kaku seluruh tubuh",
+    "badan kaku semua",
+    "seluruh badan tegang",
+    "tubuh kaku stiff sebadan",
+    "otot kaku sebadan"
+  ],
+  "stomach bloating": [
+    "perut kembung",
+    "stomach bloating",
+    "perut begah",
+    "perut penuh gas",
+    "sebah",
+    "bloating",
+    "mual kembung"
+  ],
+  "stuttering or stammering": [
+    "gagap",
+    "bicara gagap",
+    "ngomong terbata bata",
+    "gagap bicara",
+    "gagu ngomong gagap"
+  ],
+  "suprapubic pain": [
+    "nyeri suprapubik",
+    "sakit di atas tulang kemaluan",
+    "nyeri perut bawah kandung kemih",
+    "sakit ari ari bawah",
+    "nyeri tekan bawah perut"
+  ],
+  "sweating": [
+    "hiperhidrosis",
+    "berkeringat",
+    "keringatan",
+    "keluar keringat berlebih",
+    "gobyos keringat",
+    "keringat dingin",
+    "keringatan terus"
+  ],
+  "swelling of scrotum": [
+    "edema skrotum",
+    "kantong kemaluan bengkak",
+    "buah zakar bengkak",
+    "biji kemaluan membesar",
+    "hidrokel bengkak"
+  ],
+  "swollen abdomen": [
+    "perut bengkak",
+    "perut membesar",
+    "asites",
+    "perut busung",
+    "perut buncit keras",
+    "pembengkakan perut"
+  ],
+  "swollen eye": [
+    "mata bengkak",
+    "mripat bengkak",
+    "mata sembap",
+    "mata bengkak alergi",
+    "sekitar mata membengkak"
+  ],
+  "swollen lymph nodes": [
+    "limfadenopati",
+    "pembengkakan kelenjar getah bening",
+    "kelenjar bengkak",
+    "ucleng leher kelenjar",
+    "bengkak kelenjar di ketiak atau leher"
+  ],
+  "swollen or red tonsils": [
+    "tonsilitis",
+    "amandel bengkak",
+    "amandel merah",
+    "radang amandel",
+    "amandel membesar"
+  ],
+  "swollen tongue": [
+    "glositis",
+    "lidah bengkak",
+    "lidah membesar",
+    "lidah tebal membengkak",
+    "lidah membesar penuh",
+    "lidah bengkak susah bicara"
+  ],
+  "symptoms of bladder": [
+    "gejala kandung kemih",
+    "gangguan pipis",
+    "masalah kantung kemih",
+    "gejala saluran kemih",
+    "masalah kencing"
+  ],
+  "symptoms of eye": [
+    "gejala mata",
+    "gangguan mata",
+    "masalah penglihatan",
+    "keluhan mata",
+    "ada keluhan di mata",
+    "masalah seputar mata"
+  ],
+  "symptoms of infants": [
+    "gejala pada bayi",
+    "keluhan bayi",
+    "bayi sakit",
+    "gangguan kesehatan bayi",
+    "bayi tampak tidak sehat",
+    "keluhan kesehatan pada bayi"
+  ],
+  "symptoms of prostate": [
+    "gejala prostat",
+    "gangguan prostat",
+    "prostat bengkak gejala",
+    "susah pipis gejala prostat",
+    "keluhan kencing pada pria tua",
+    "masalah prostat pria"
+  ],
+  "symptoms of the face": [
+    "gejala pada wajah",
+    "gangguan wajah",
+    "kelainan muka",
+    "keluhan di muka",
+    "wajah ada keluhan fisik",
+    "muka bermasalah"
+  ],
+  "symptoms of the kidneys": [
+    "gejala ginjal",
+    "gangguan ginjal",
+    "masalah ginjal",
+    "sakit pinggang ginjal",
+    "keluhan seputar ginjal",
+    "tanda gangguan ginjal"
+  ],
+  "symptoms of the scrotum and testes": [
+    "gejala skrotum dan testis",
+    "gangguan alat kelamin pria",
+    "masalah buah zakar",
+    "keluhan biji kemaluan",
+    "kantong kemih pria bermasalah",
+    "buah zakar ada keluhan"
+  ],
+  "temper problems": [
+    "masalah temperamen",
+    "mudah mengamuk",
+    "emosional parah",
+    "gampang marah",
+    "darah tinggi emosi",
+    "temperamental",
+    "senggol bacok"
+  ],
+  "thirst": [
+    "polidipsi",
+    "kehausan",
+    "sering merasa haus",
+    "dahaga",
+    "bawaannya pengen minum terus",
+    "haus terus"
+  ],
+  "throat feels tight": [
+    "tenggorokan terasa sempit",
+    "tenggorokan tercekat",
+    "tenggorokan terasa sesak",
+    "tenggorokan seperti dihimpit",
+    "tenggorokan kencang"
+  ],
+  "throat irritation": [
+    "iritasi tenggorokan",
+    "tenggorokan gatal",
+    "tenggorokan serak gatal",
+    "tenggorokan ganjel perih",
+    "tenggorokan gatel perih",
+    "tenggorokan iritasi"
+  ],
+  "throat redness": [
+    "tenggorokan kemerahan",
+    "tenggorokan merah meradang",
+    "faring merah",
+    "radang tenggorokan merah",
+    "tenggorokan berwarna merah",
+    "dalam tenggorokan meradang"
+  ],
+  "throat swelling": [
+    "edema tenggorokan",
+    "tenggorokan bengkak",
+    "pembengkakan tenggorokan",
+    "tenggorokan membesar dalam",
+    "tenggorokan terasa besar dalam",
+    "kerongkongan bengkak"
+  ],
+  "tongue bleeding": [
+    "perdarahan lidah",
+    "lidah berdarah",
+    "keluar darah dari lidah",
+    "lidah tergigit berdarah",
+    "lidah keluar darah",
+    "gusi lidah berdarah"
+  ],
+  "tongue lesions": [
+    "lesi lidah",
+    "luka di lidah",
+    "borok lidah",
+    "sariawan di lidah",
+    "lidah pecah pecah luka"
+  ],
+  "tongue pain": [
+    "nyeri lidah",
+    "lidah sakit",
+    "lidah perih",
+    "lidah linu senut senut",
+    "ujung lidah sakit",
+    "lidah nyeri saat makan"
+  ],
+  "too little hair": [
+    "alopesia",
+    "rambut tipis",
+    "kebotakan",
+    "rambut rontok parah",
+    "pitak",
+    "rambut sedikit"
+  ],
+  "toothache": [
+    "sakit gigi",
+    "gigi senut senut",
+    "nyeri gigi",
+    "gigi linu",
+    "sakit gigi nyut nyutan"
+  ],
+  "underweight": [
+    "berat badan kurang",
+    "terlalu kurus",
+    "kurang gizi",
+    "bb kurang",
+    "badan cungkring",
+    "kerempeng",
+    "berat badan di bawah normal"
+  ],
+  "unpredictable menstruation": [
+    "menstruasi tidak teratur",
+    "haid tidak ketebak",
+    "jadwal haid berantakan",
+    "datang bulan tidak menentu",
+    "haid tidak teratur",
+    "siklus haid kacau"
+  ],
+  "unusual color or odor to urine": [
+    "urin bau aneh",
+    "warna urin tidak normal",
+    "kencing bau menyengat",
+    "pipis warna pekat",
+    "air kencing keruh bau",
+    "urin wangi manis atau busuk"
+  ],
+  "unwanted hair": [
+    "hirsutisme",
+    "rambut berlebih",
+    "tumbuh bulu halus tidak wajar",
+    "bulu lebat di area tidak biasa",
+    "kumisan pada wanita"
+  ],
+  "upper abdominal pain": [
+    "nyeri perut atas",
+    "sakit perut atas",
+    "sakit ulu hati",
+    "nyeri lambung",
+    "perih ulu hati",
+    "sakit perut bagian atas"
+  ],
+  "uterine contractions": [
+    "kontraksi rahim",
+    "rahim kencang",
+    "mulas kontraksi",
+    "perut kencang kencang hamil",
+    "mules mau melahirkan"
+  ],
+  "vaginal bleeding after menopause": [
+    "perdarahan vagina pasca menopause",
+    "keluar darah setelah menopause",
+    "haid lagi padahal sudah menopause",
+    "vagina berdarah setelah berhenti haid tahunan",
+    "flek setelah berhenti haid",
+    "berdarah lagi setelah menopause"
+  ],
+  "vaginal discharge": [
+    "fluor albus",
+    "keputihan",
+    "keluar cairan dari vagina",
+    "keputihan berbau",
+    "pek tay",
+    "keputihan gatal",
+    "cairan miss v"
+  ],
+  "vaginal dryness": [
+    "vagina kering",
+    "miss v kering",
+    "kekeringan vagina",
+    "vagina kesat garing",
+    "miss v terasa kering garing",
+    "vagina kurang lembab"
+  ],
+  "vaginal itching": [
+    "pruritus vulvae",
+    "vagina gatal",
+    "miss v gatal",
+    "alat kelamin wanita gatal",
+    "gatel miss v"
+  ],
+  "vaginal pain": [
+    "nyeri vagina",
+    "sakit vagina",
+    "miss v sakit",
+    "kemaluan wanita linu perih",
+    "vagina perih nyeri",
+    "alat kelamin wanita sakit"
+  ],
+  "vaginal redness": [
+    "vagina kemerahan",
+    "miss v merah iritasi",
+    "bibir kemaluan merah meradang",
+    "vagina meradang merah",
+    "miss v merah sakit",
+    "vagina luar meradang"
+  ],
+  "vomiting": [
+    "muntah",
+    "muntah muntah",
+    "muntah dan mual",
+    "jackpot",
+    "mutah"
+  ],
+  "vomiting blood": [
+    "hematemesis",
+    "muntah darah",
+    "keluar darah dari mulut saat muntah",
+    "muntah hitam seperti kopi",
+    "keluarnya darah waktu muntah",
+    "muntah ada campuran darahnya"
+  ],
+  "vulvar irritation": [
+    "iritasi vulva",
+    "kemaluan luar wanita perih",
+    "iritasi bibir vagina",
+    "vulva perih meradang",
+    "bibir vagina perih",
+    "area luar kemaluan wanita iritasi"
+  ],
+  "vulvar sore": [
+    "lesi vulva",
+    "luka di vulva",
+    "sariawan di vagina",
+    "bibir kemaluan lecet borokan",
+    "luka di bibir vagina",
+    "area kemaluan wanita luka perih"
+  ],
+  "warts": [
+    "kutil",
+    "kutilan",
+    "papiloma",
+    "daging tumbuh kecil kutil",
+    "mata ikan kulit"
+  ],
+  "weakness": [
+    "astenia",
+    "kelemahan",
+    "lemas",
+    "lemas sebadan",
+    "tidak bertenaga",
+    "loyo",
+    "letoy",
+    "badan lunglai",
+    "kurang tenaga"
+  ],
+  "weight gain": [
+    "kenaikan berat badan",
+    "bb naik",
+    "tambah gemuk",
+    "timbangan naik",
+    "badan makin melar"
+  ],
+  "wheezing": [
+    "wheezing",
+    "napas berbunyi ngik ngik",
+    "mengi",
+    "napas bengek",
+    "suara napas menyempit"
+  ],
+  "white discharge from eye": [
+    "belekan",
+    "mata keluar cairan putih",
+    "belek putih",
+    "mata belekan terus",
+    "kotoran mata putih"
+  ],
+  "wrinkles on skin": [
+    "kerutan kulit",
+    "kulit keriput",
+    "keriput",
+    "garis halus wajah",
+    "kulit kendur keriput"
+  ],
+  "wrist lump or mass": [
+    "massa pergelangan tangan",
+    "benjolan pergelangan tangan",
+    "kista ganglion",
+    "engkel tangan benjol",
+    "ucleng di pergelangan tangan"
+  ],
+  "wrist pain": [
+    "nyeri pergelangan tangan",
+    "sakit pergelangan tangan",
+    "pergelangan tangan linu",
+    "nyeri carpal tunnel",
+    "sakit engkel tangan"
+  ],
+  "wrist stiffness or tightness": [
+    "kaku pergelangan tangan",
+    "pergelangan tangan kaku",
+    "engkel tangan tegang",
+    "pergelangan tangan stiff",
+    "pergelangan tangan susah digerakkan",
+    "engkel tangan kaku banget"
+  ],
+  "wrist swelling": [
+    "edema pergelangan tangan",
+    "pergelangan tangan bengkak",
+    "engkel tangan membengkak",
+    "engkel tangan gemuk bengkak",
+    "pergelangan tangan membengkak"
+  ],
+  "wrist weakness": [
+    "kelemahan pergelangan tangan",
+    "pergelangan tangan lemas",
+    "engkel tangan letoy",
+    "tangan tidak kuat memegang atau menekuk",
+    "pergelangan tangan tidak kuat",
+    "engkel tangan lemas lemah"
+  ]
+}
