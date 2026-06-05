@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+a {
+  text-decoration: none;
+  color: #333333;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 6px 14px;
+  transition: all 0.2s;
+}
+
+a.active {
+  color: #fca311;
+  font-weight: 700;
+  background-color: #fff9f0;
+}
+
+a:hover {
+  color: #fca311;
+  background-color: #fff9f0;
+}
+
+/* Global theme overrides requested by user */
+:root {
+  --diag-btn: #788D7C; /* button color */
+  --diag-bg: #FFFFFF; /* page background */
+}
+
+/* Force global page background */
+body {
+  background-color: var(--diag-bg) !important;
+}
+
+/* Primary button overrides (applies to native buttons and form inputs) */
+button,
+input[type="button"],
+input[type="submit"],
+[role="button"] {
+  background-color: var(--diag-btn) !important;
+  border-color: var(--diag-btn) !important;
+  color: #ffffff !important;
+}
+
+/* Override common Tailwind utility classes that embed specific bg colors */
+[class*="bg-[#14213D]"],
+[class*="bg-[#FCA311]"],
+[class*="bg-\#14213D"],
+[class*="bg-\#FCA311"],
+[class*="bg-[#f8f8f8]"],
+[class*="bg-\#f8f8f8"] {
+  background-color: var(--diag-btn) !important;
+  color: #ffffff !important;
+  border-color: var(--diag-btn) !important;
+}
+
+/* Make near-white backgrounds fully white for consistency */
+[class*="bg-[#f8f8f8]"],
+[class*="bg-\#f8f8f8"],
+body {
+  background-color: var(--diag-bg) !important;
+}
+
+/* Keep links and other small text styles unaffected except buttons */
+
+/* Remove all shadows globally */
+*,
+*::before,
+*::after {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+}
+
+/* Explicitly override common Tailwind shadow utilities */
+.shadow,
+.shadow-sm,
+.shadow-md,
+.shadow-lg,
+.shadow-xl,
+.shadow-2xl,
+.shadow-inner,
+.drop-shadow,
+.drop-shadow-sm,
+.drop-shadow-md,
+.drop-shadow-lg,
+.drop-shadow-xl {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+}
+
+/* Catch any classes that include the word 'shadow' to be safe */
+[class*="shadow"] {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+}
+
