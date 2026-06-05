@@ -1,4 +1,4 @@
-# 🩺 DiagnoKu — Panduan untuk Pemula
+# 🩺 DiagnoKu
 
 > **DiagnoKu** adalah aplikasi web berbasis AI untuk memeriksa kemungkinan penyakit berdasarkan gejala yang kamu rasakan. Masukkan gejala → sistem kasih tau **top-3 kemungkinan penyakit** beserta tingkat kepercayaannya.
 
