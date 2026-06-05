@@ -1,7 +1,14 @@
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "";
 
 async function fetchJson(path, options = {}) {
-  const response = await fetch(`${API_BASE_URL}${path}`, options);
+  const response = await fetch(`${API_BASE_URL}${path}`, {
+    ...options,
+    headers: {
+      "Content-Type": "application/json",
+      "ngrok-skip-browser-warning": "true",
+      ...options.headers,
+    },
+  });
   const data = await response.json();
 
   if (!response.ok) {
@@ -26,9 +33,6 @@ export async function getDiseases() {
 export async function predictSymptoms(symptoms, topK = 3) {
   return fetchJson("/api/ai/predict", {
     method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
     body: JSON.stringify({
       symptoms,
       top_k: topK,

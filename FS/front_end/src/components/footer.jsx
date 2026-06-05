@@ -23,7 +23,7 @@ const Footer = () => {
             <div className="flex items-center gap-3">
               {/* GitHub */}
               <a
-                href="https://github.com"
+                href="https://github.com/CC26-PSU200/Project_Capstone_CC26-PSU200.git"
                 target="_blank"
                 rel="noreferrer"
                 className="w-10 h-10 flex items-center justify-center rounded-xl border border-white text-white hover:border-white hover:text-white hover:-translate-y-1 transition-all duration-300"

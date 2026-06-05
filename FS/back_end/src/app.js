@@ -6,6 +6,11 @@ import { errorMiddleware } from "./middlewares/error.middleware.js";
 
 const app = express();
 
+app.use((req, res, next) => {
+  res.setHeader("ngrok-skip-browser-warning", "true");
+  next();
+});
+
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

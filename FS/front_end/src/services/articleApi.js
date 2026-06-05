@@ -1,7 +1,11 @@
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "";
 
 async function fetchJson(path) {
-  const response = await fetch(`${API_BASE_URL}${path}`);
+  const response = await fetch(`${API_BASE_URL}${path}`, {
+    headers: {
+      "ngrok-skip-browser-warning": "true",
+    },
+  });
   const data = await response.json();
 
   if (!response.ok) {
