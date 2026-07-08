@@ -86,7 +86,7 @@ function SymptomPicker({ value, onChange, symptoms = DEFAULT_SYMPTOMS }) {
         {selected.map((s) => (
           <span
             key={s}
-            className="inline-flex items-center gap-1 bg-[#14213D] rounded-full py-1.5 px-3 font-['DM_Sans'] text-xs text-white font-bold animate-fade-in"
+            className="inline-flex items-center gap-1 bg-[#14213D] rounded-full py-1.5 px-3 text-xs text-white font-bold animate-fade-in"
           >
             {s}
             <span
@@ -102,7 +102,7 @@ function SymptomPicker({ value, onChange, symptoms = DEFAULT_SYMPTOMS }) {
         ))}
         <div className="relative flex-1 min-w-[140px] h-6 flex items-center">
           {predictedRemainder && (
-            <div className="absolute left-1 top-0 bottom-0 flex items-center font-['DM_Sans'] text-sm pointer-events-none whitespace-pre">
+            <div className="absolute left-1 top-0 bottom-0 flex items-center text-sm pointer-events-none whitespace-pre">
               <span className="invisible">{query}</span>
               <span className="text-[#cccccc]">{predictedRemainder}</span>
               <span className="text-[10px] ml-2 bg-[#f2f3f5] px-1.5 py-0.5 rounded text-[#808080] font-bold border border-[#E5E5E5]">
@@ -120,7 +120,7 @@ function SymptomPicker({ value, onChange, symptoms = DEFAULT_SYMPTOMS }) {
                 ? "Ketik gejala (cth: Demam)..."
                 : ""
             }
-            className="absolute left-0 top-0 bottom-0 w-full border-none outline-none font-['DM_Sans'] text-sm text-[#000000] bg-transparent px-1 font-medium placeholder-[#cccccc]"
+            className="absolute left-0 top-0 bottom-0 w-full border-none outline-none text-sm text-[#000000] bg-transparent px-1 font-medium placeholder-[#cccccc]"
           />
         </div>
       </div>
@@ -181,7 +181,7 @@ const BotBubble = ({ text, animate }) => (
         ) : (
           <p
             key={i}
-            className="font-['DM_Sans'] text-[14.5px] text-[#333333] m-0 leading-relaxed font-medium"
+            className="text-[14.5px] text-[#333333] m-0 leading-relaxed font-medium"
           >
             {l}
           </p>
@@ -193,7 +193,7 @@ const BotBubble = ({ text, animate }) => (
 
 const UserBubble = ({ text }) => (
   <div className="flex gap-3 max-w-[80%] self-end animate-slide-up-fade">
-    <div className="p-4 rounded-[20px] rounded-tr-[4px] bg-[#14213D] text-white font-['DM_Sans'] text-[14.5px] leading-relaxed font-medium shadow-md">
+    <div className="p-4 rounded-[20px] rounded-tr-[4px] bg-[#14213D] text-white text-[14.5px] leading-relaxed font-medium shadow-md">
       {text}
     </div>
     <div className="w-9 h-9 rounded-full bg-[#FCA311] text-[#14213D] flex items-center justify-center text-sm font-black shrink-0 mt-1 shadow-sm">
@@ -239,7 +239,7 @@ function InputArea({ q, onAnswer, tempVal, setTempVal, symptoms }) {
           <button
             key={opt}
             onClick={() => onAnswer(opt)}
-            className="px-5 py-2.5 rounded-full bg-white border-[1.5px] border-[#E5E5E5] font-['DM_Sans'] text-sm font-bold text-[#14213D] cursor-pointer transition-all duration-200 hover:border-[#FCA311] hover:bg-[#ffeec2]/20 hover:text-[#FCA311] hover:-translate-y-0.5 shadow-sm active:scale-95"
+            className="px-5 py-2.5 rounded-full bg-white border-[1.5px] border-[#E5E5E5] text-sm font-bold text-[#14213D] cursor-pointer transition-all duration-200 hover:border-[#FCA311] hover:bg-[#ffeec2]/20 hover:text-[#FCA311] hover:-translate-y-0.5 shadow-sm active:scale-95"
           >
             {opt}
           </button>
@@ -255,7 +255,7 @@ function InputArea({ q, onAnswer, tempVal, setTempVal, symptoms }) {
         <button
           onClick={() => sel.length > 0 && onAnswer(sel)}
           disabled={sel.length === 0}
-          className={`py-3 px-6 rounded-full font-['Nunito'] text-sm font-black tracking-wide transition-all duration-300 w-fit self-end ${sel.length > 0 ? "bg-[#FCA311] text-[#14213D] shadow-md hover:bg-[#e6940d] hover:shadow-lg hover:-translate-y-0.5 active:scale-95" : "bg-[#E5E5E5] text-[#808080] cursor-not-allowed"}`}
+          className={`py-3 px-6 rounded-full text-sm font-black tracking-wide transition-all duration-300 w-fit self-end ${sel.length > 0 ? "bg-[#FCA311] text-[#14213D] shadow-md hover:bg-[#e6940d] hover:shadow-lg hover:-translate-y-0.5 active:scale-95" : "bg-[#E5E5E5] text-[#808080] cursor-not-allowed"}`}
         >
           Konfirmasi Gejala ({sel.length}) →
         </button>
@@ -272,7 +272,7 @@ function InputArea({ q, onAnswer, tempVal, setTempVal, symptoms }) {
             <button
               key={n}
               onClick={() => setTempVal(n)}
-              className={`w-11 h-11 rounded-xl border-2 font-['Nunito'] text-base font-black transition-all duration-200 active:scale-90 ${val === n ? "border-[#14213D] bg-[#14213D] text-[#FCA311] shadow-md scale-110" : "border-[#E5E5E5] bg-white text-[#333333] hover:border-[#FCA311]"}`}
+              className={`w-11 h-11 rounded-xl border-2 text-base font-black transition-all duration-200 active:scale-90 ${val === n ? "border-[#14213D] bg-[#14213D] text-[#FCA311] shadow-md scale-110" : "border-[#E5E5E5] bg-white text-[#333333] hover:border-[#FCA311]"}`}
             >
               {n}
             </button>
@@ -281,7 +281,7 @@ function InputArea({ q, onAnswer, tempVal, setTempVal, symptoms }) {
         <div className="flex justify-end">
           <button
             onClick={() => onAnswer(val)}
-            className="py-3 px-6 rounded-full bg-[#FCA311] text-[#14213D] font-['Nunito'] text-sm font-black tracking-wide shadow-md hover:bg-[#e6940d] hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+            className="py-3 px-6 rounded-full bg-[#FCA311] text-[#14213D] text-sm font-black tracking-wide shadow-md hover:bg-[#e6940d] hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
           >
             Pilih Skala {val}/10 →
           </button>
@@ -324,12 +324,12 @@ function InputArea({ q, onAnswer, tempVal, setTempVal, symptoms }) {
           inputMode={isAgeQuestion ? "numeric" : "text"}
           min={isAgeQuestion ? "0" : undefined}
           max={isAgeQuestion ? "120" : undefined}
-          className="flex-1 py-3 px-5 rounded-full border-[1.5px] border-[#E5E5E5] font-['DM_Sans'] text-[14.5px] text-[#000000] outline-none bg-white font-medium focus:border-[#FCA311] focus:shadow-sm transition-all"
+          className="flex-1 py-3 px-5 rounded-full border-[1.5px] border-[#E5E5E5] text-[14.5px] text-[#000000] outline-none bg-white font-medium focus:border-[#FCA311] focus:shadow-sm transition-all"
         />
         {q.type === "text_optional" && (
           <button
             onClick={() => onAnswer("")}
-            className="py-2.5 px-4 rounded-full bg-transparent border border-[#E5E5E5] font-['DM_Sans'] text-xs text-[#666666] font-bold hover:bg-gray-50 hover:text-black transition-colors"
+            className="py-2.5 px-4 rounded-full bg-transparent border border-[#E5E5E5] text-xs text-[#666666] font-bold hover:bg-gray-50 hover:text-black transition-colors"
           >
             Lewati
           </button>
@@ -352,10 +352,10 @@ function FollowUpArea({ symptoms, onSubmit, onSkip, prompt }) {
   return (
     <div className="p-4 bg-white/90 border-t border-[#E5E5E5] flex flex-col gap-3 animate-fade-in">
       <div>
-        <p className="font-['Nunito'] text-sm font-black text-[#14213D] m-0">
+        <p className="text-sm font-black text-[#14213D] m-0">
           Hasil masih mirip, tambahkan gejala lain
         </p>
-        <p className="font-['DM_Sans'] text-[12px] text-[#667085] m-0 mt-1 leading-relaxed">
+        <p className="text-[12px] text-[#667085] m-0 mt-1 leading-relaxed">
           {prompt ||
             "Pilih gejala tambahan yang masih Anda rasakan supaya prediksi bisa mengerucut."}
         </p>
@@ -370,7 +370,7 @@ function FollowUpArea({ symptoms, onSubmit, onSkip, prompt }) {
       <div className="flex flex-wrap gap-2 justify-end">
         <button
           onClick={onSkip}
-          className="py-2.5 px-4 rounded-full bg-transparent border border-[#E5E5E5] font-['DM_Sans'] text-xs text-[#666666] font-bold hover:bg-gray-50 hover:text-black transition-colors"
+          className="py-2.5 px-4 rounded-full bg-transparent border border-[#E5E5E5] text-xs text-[#666666] font-bold hover:bg-gray-50 hover:text-black transition-colors"
         >
           Lanjut tanpa tambahan
         </button>
@@ -379,7 +379,7 @@ function FollowUpArea({ symptoms, onSubmit, onSkip, prompt }) {
             selectedSymptoms.length > 0 && onSubmit(selectedSymptoms)
           }
           disabled={selectedSymptoms.length === 0}
-          className={`py-2.5 px-5 rounded-full font-['Nunito'] text-sm font-black tracking-wide transition-all duration-300 ${selectedSymptoms.length > 0 ? "bg-[#FCA311] text-[#14213D] shadow-md hover:bg-[#e6940d] hover:shadow-lg hover:-translate-y-0.5 active:scale-95" : "bg-[#E5E5E5] text-[#808080] cursor-not-allowed"}`}
+          className={`py-2.5 px-5 rounded-full text-sm font-black tracking-wide transition-all duration-300 ${selectedSymptoms.length > 0 ? "bg-[#FCA311] text-[#14213D] shadow-md hover:bg-[#e6940d] hover:shadow-lg hover:-translate-y-0.5 active:scale-95" : "bg-[#E5E5E5] text-[#808080] cursor-not-allowed"}`}
         >
           Tambahkan Gejala ({selectedSymptoms.length})
         </button>
@@ -394,7 +394,7 @@ function PredictionPanel({ predictions, loading, onReset }) {
   if (loading)
     return (
       <div className="flex flex-col gap-4 animate-fade-in">
-        <h3 className="font-['Nunito'] text-lg font-black text-[#14213D] m-0">
+        <h3 className="text-lg font-black text-[#14213D] m-0">
           Sedang Menganalisis...
         </h3>
         {[1, 2, 3].map((i) => (
@@ -409,7 +409,7 @@ function PredictionPanel({ predictions, loading, onReset }) {
             </div>
           </div>
         ))}
-        <p className="font-['DM_Sans'] text-xs text-[#808080] text-center font-bold mt-2">
+        <p className="text-xs text-[#808080] text-center font-bold mt-2">
           Mesin AI sedang memproses data gejala Anda.
         </p>
       </div>
@@ -419,7 +419,7 @@ function PredictionPanel({ predictions, loading, onReset }) {
     return (
       <div className="text-center py-12 flex flex-col items-center justify-center h-full opacity-60">
         <div className="text-6xl mb-4 grayscale opacity-50"></div>
-        <p className="font-['DM_Sans'] text-sm text-[#808080] leading-relaxed font-bold max-w-[200px]">
+        <p className="text-sm text-[#808080] leading-relaxed font-bold max-w-[200px]">
           Jawab semua pertanyaan chatbot untuk mendapatkan hasil prediksi medis
           awal Anda di sini.
         </p>
@@ -441,12 +441,12 @@ function PredictionPanel({ predictions, loading, onReset }) {
   return (
     <div className="animate-slide-up-fade">
       <div className="flex justify-between items-center mb-2">
-        <h3 className="font-['Nunito'] text-lg font-black text-[#14213D] m-0">
+        <h3 className="text-lg font-black text-[#14213D] m-0">
           Hasil Analisis
         </h3>
         <button
           onClick={onReset}
-          className="bg-white border border-[#E5E5E5] rounded-full py-1.5 px-3 font-['DM_Sans'] text-xs text-[#333333] font-bold hover:bg-gray-50 transition-colors shadow-sm"
+          className="bg-white border border-[#E5E5E5] rounded-full py-1.5 px-3 text-xs text-[#333333] font-bold hover:bg-gray-50 transition-colors shadow-sm"
         >
           Ulangi Test
         </button>
@@ -466,7 +466,7 @@ function PredictionPanel({ predictions, loading, onReset }) {
                   aria-hidden="true"
                 />
                 <div className="flex-1 px-4 py-4 md:px-5 md:py-5 flex items-center min-h-[84px]">
-                  <p className="font-['Nunito'] text-[18px] md:text-[20px] font-black text-[#14213D] m-0 leading-tight">
+                  <p className="text-[18px] md:text-[20px] font-black text-[#14213D] m-0 leading-tight">
                     {p.name}
                   </p>
                 </div>
@@ -476,7 +476,7 @@ function PredictionPanel({ predictions, loading, onReset }) {
         })}
       </div>
       <div className="mt-4 p-4 bg-[#fff9f0] border border-[#fde394] rounded-xl text-center shadow-sm">
-        <p className="font-['DM_Sans'] text-xs text-[#c77c00] font-bold leading-relaxed m-0">
+        <p className="text-xs text-[#c77c00] font-bold leading-relaxed m-0">
           Hasil ini murni prediksi kecerdasan buatan. Segera kunjungi klinik
           atau RS terdekat untuk diagnosis pasti dan penanganan medis yang
           tepat.
@@ -821,7 +821,7 @@ function KonsultasiPages() {
           className={`${showHistory ? "translate-x-0" : "-translate-x-full lg:translate-x-0"} absolute lg:relative inset-y-0 left-0 z-50 flex flex-col w-[260px] bg-white border-r border-[#E5E5E5] shrink-0 transition-transform duration-300 h-full`}
         >
           <div className="px-5 py-4 border-b border-[#E5E5E5] flex justify-between items-center bg-[#fafafa]">
-            <span className="font-['Nunito'] text-[16px] font-black text-[#14213D] m-0">
+            <span className="text-[16px] font-black text-[#14213D] m-0">
               Riwayat Chat
             </span>
             <div className="flex gap-2">
@@ -844,7 +844,7 @@ function KonsultasiPages() {
           <div className="flex-1 overflow-y-auto p-3 flex flex-col gap-2 chat-scroll">
             {historyList.length === 0 ? (
               <div className="text-center py-8 text-[#808080]">
-                <p className="font-['DM_Sans'] text-sm font-medium m-0">
+                <p className="text-sm font-medium m-0">
                   Belum ada riwayat konsultasi
                 </p>
               </div>
@@ -857,10 +857,10 @@ function KonsultasiPages() {
                 >
                   <div className="flex justify-between items-start gap-2">
                     <div className="flex-1 min-w-0">
-                      <p className="font-['Nunito'] text-[14px] font-bold text-[#14213D] m-0 mb-1 truncate">
+                      <p className="text-[14px] font-bold text-[#14213D] m-0 mb-1 truncate">
                         {h.title}
                       </p>
-                      <p className="font-['DM_Sans'] text-[11px] font-medium text-[#808080] m-0">
+                      <p className="text-[11px] font-medium text-[#808080] m-0">
                         {h.time}
                       </p>
                     </div>
@@ -882,7 +882,7 @@ function KonsultasiPages() {
           <div className="px-5 py-4 border-t border-[#E5E5E5] bg-[#fafafa] flex flex-col gap-2">
             <button
               onClick={clearVisibleHistory}
-              className="w-full py-3 rounded-full bg-[#14213D] text-[#FCA311] font-['DM_Sans'] text-sm font-black transition-colors hover:bg-[#0f172a] hover:text-white"
+              className="w-full py-3 rounded-full bg-[#14213D] text-[#FCA311] text-sm font-black transition-colors hover:bg-[#0f172a] hover:text-white"
             >
               Hapus Riwayat
             </button>
@@ -909,7 +909,7 @@ function KonsultasiPages() {
                 <span className="absolute bottom-0 right-0 w-3 h-3 bg-green-500 border-2 border-white rounded-full"></span>
               </div>
               <div>
-                <h1 className="font-['Nunito'] text-base font-black text-[#14213D] m-0">
+                <h1 className="text-base font-black text-[#14213D] m-0">
                   Asisten Medis
                 </h1>
               </div>
@@ -956,6 +956,24 @@ function KonsultasiPages() {
                   setFollowUpState(null);
                   setFollowUpRound(0);
                   setDone(true);
+
+                  const newSession = {
+                    id: currentSessionId,
+                    nama: formData.nama,
+                    gejala: formData.gejala,
+                    predictions: predictions,
+                    timestamp: new Date().toISOString(),
+                  };
+
+                  const updatedHistory = [
+                    newSession,
+                    ...consultationHistory,
+                  ].slice(0, 20);
+                  localStorage.setItem(
+                    "consultationHistory",
+                    JSON.stringify(updatedHistory),
+                  );
+                  setConsultationHistory(updatedHistory);
                 }}
                 onSubmit={async (extraSymptoms) => {
                   const mergedSymptoms = Array.from(
@@ -991,7 +1009,7 @@ function KonsultasiPages() {
         {(done || loadingPred) && !followUpState && (
           <div className="xl:hidden absolute inset-0 z-50 bg-[#f8f8f8] overflow-y-auto animate-fade-in flex flex-col">
             <div className="p-4 bg-white border-b border-[#E5E5E5] flex justify-between items-center sticky top-0 z-10 shadow-sm">
-              <h2 className="font-['Nunito'] text-lg font-black text-[#14213D] m-0">
+              <h2 className="text-lg font-black text-[#14213D] m-0">
                 Laporan Kesehatan
               </h2>
               <button
