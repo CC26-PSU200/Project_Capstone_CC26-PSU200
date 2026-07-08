@@ -81,7 +81,7 @@ function SymptomPicker({ value, onChange, symptoms = DEFAULT_SYMPTOMS }) {
     <div className="relative">
       <div
         onClick={() => inputRef.current?.focus()}
-        className={`min-h-[48px] p-2 rounded-2xl border-2 cursor-text flex flex-wrap gap-2 items-center transition-colors duration-300 bg-white ${query ? "border-[#FCA311]" : "border-[#E5E5E5]"}`}
+        className={`min-h-12 p-2 rounded-2xl border-2 cursor-text flex flex-wrap gap-2 items-center transition-colors duration-300 bg-white ${query ? "border-[#FCA311]" : "border-[#E5E5E5]"}`}
       >
         {selected.map((s) => (
           <span
@@ -174,7 +174,7 @@ const BotBubble = ({ text, animate }) => (
         className="w-full h-full object-cover"
       />
     </div>
-    <div className="p-4 rounded-[20px] rounded-tl-[4px] bg-white border border-[#E5E5E5] shadow-sm">
+    <div className="p-4 rounded-[20px] rounded-tl-sm bg-white border border-[#E5E5E5] shadow-sm">
       {text.split("\n").map((l, i) =>
         l === "" ? (
           <br key={i} />
@@ -193,7 +193,7 @@ const BotBubble = ({ text, animate }) => (
 
 const UserBubble = ({ text }) => (
   <div className="flex gap-3 max-w-[80%] self-end animate-slide-up-fade">
-    <div className="p-4 rounded-[20px] rounded-tr-[4px] bg-[#14213D] text-white text-[14.5px] leading-relaxed font-medium shadow-md">
+    <div className="p-4 rounded-[20px] rounded-tr-sm bg-[#14213D] text-white text-[14.5px] leading-relaxed font-medium shadow-md">
       {text}
     </div>
     <div className="w-9 h-9 rounded-full bg-[#FCA311] text-[#14213D] flex items-center justify-center text-sm font-black shrink-0 mt-1 shadow-sm">
@@ -211,7 +211,7 @@ const TypingBubble = () => (
         className="w-full h-full object-cover"
       />
     </div>
-    <div className="px-5 py-4 rounded-[20px] rounded-tl-[4px] bg-white border border-[#E5E5E5] flex gap-1.5 items-center shadow-sm h-[48px]">
+    <div className="px-5 py-4 rounded-[20px] rounded-tl-sm bg-white border border-[#E5E5E5] flex gap-1.5 items-center shadow-sm h-12">
       <span
         className="w-2 h-2 rounded-full bg-[#FCA311] animate-bounce-typing"
         style={{ animationDelay: "0ms" }}
