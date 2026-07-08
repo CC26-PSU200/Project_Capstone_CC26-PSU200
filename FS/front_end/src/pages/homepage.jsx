@@ -86,18 +86,11 @@ function Homepage() {
       <div className="max-w-[1100px] w-full relative z-10">
         {/* ─── SECTION 1: HERO & CALL TO ACTION ─── */}
         <section className="flex flex-col items-center text-center mt-10 mb-28 w-full max-w-3xl mx-auto animate-fade-up">
-          <div className="inline-flex items-center gap-2 bg-gradient-to-r from-[#ffeec2] to-[#f2f3f5] border border-[#fde394] px-5 py-2 rounded-full mb-8 shadow-sm">
-            <span className="text-base">✨</span>
-            <span className="font-['DM_Sans'] text-[13px] font-bold text-[#FCA311] tracking-wide">
-              AI-Powered Health Assistant
-            </span>
-          </div>
-
-          <h1 className="font-['Nunito'] text-5xl md:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-br from-[#000000] via-[#14213D] to-[#3d4b68] mb-6 tracking-tight leading-[1.15]">
+          <h1 className="text-5xl md:text-6xl font-black text-transparent bg-clip-text bg-linear-to-br from-[#000000] via-[#14213D] to-[#3d4b68] mb-6 tracking-tight leading-[1.15]">
             Kenali Gejala Anda <br className="hidden md:block" /> dengan Mudah
           </h1>
 
-          <p className="font-['DM_Sans'] text-lg text-[#6E6861] leading-relaxed mb-10 font-medium max-w-xl mx-auto">
+          <p className="text-lg text-[#6E6861] leading-relaxed mb-10 font-medium max-w-xl mx-auto">
             Dapatkan prediksi awal cerdas untuk kondisi kesehatan Anda dalam
             hitungan detik. Pribadi, cepat, dan terpercaya.
           </p>
@@ -105,20 +98,20 @@ function Homepage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center w-full">
             <a
               href="/konsultasi"
-              className="w-full sm:w-auto bg-[#FCA311] text-[#000000] py-4 px-10 font-['Nunito'] text-[14px] font-extrabold tracking-[1.5px] uppercase rounded-full transition-all duration-300 hover:text-[#000000] hover:bg-[#FFD700] active:scale-95 animate-pulse-gold border border-[#FCA311] hover:border-[#FFD700] flex items-center justify-center gap-2"
+              className="w-full sm:w-auto bg-[#FCA311] text-[#000000] py-4 px-10 text-[14px] font-extrabold tracking-[1.5px] uppercase rounded-full transition-all duration-300 hover:text-[#000000] hover:bg-[#FFD700] active:scale-95 animate-pulse-gold border border-[#FCA311] hover:border-[#FFD700] flex items-center justify-center gap-2"
             >
               Mulai Chat <span className="text-lg leading-none">→</span>
             </a>
             <a
               href="/artikel"
-              className="w-full sm:w-auto bg-white/80 backdrop-blur-md text-[#14213D] border-[1.5px] border-[#E5E5E5] py-4 px-8 font-['Nunito'] text-[14px] font-bold tracking-wide rounded-full transition-all duration-300 hover:border-[#14213D] hover:bg-white hover:shadow-lg active:scale-95 text-center"
+              className="w-full sm:w-auto bg-white/80 backdrop-blur-md text-[#14213D] border-[1.5px] border-[#E5E5E5] py-4 px-8 text-[14px] font-bold tracking-wide rounded-full transition-all duration-300 hover:border-[#14213D] hover:bg-white hover:shadow-lg active:scale-95 text-center"
             >
               Baca Artikel Kesehatan
             </a>
           </div>
 
           {/* Floating Bot Visual */}
-          <div className="mt-20 relative w-full max-w-[650px] mx-auto h-[160px] bg-gradient-to-br from-[#ffffff] to-[#f2f3f5] rounded-[32px] border border-[#E5E5E5] shadow-xl flex flex-col items-center justify-center animate-fade-up delay-200">
+          <div className="mt-20 relative w-full max-w-[650px] mx-auto h-40 bg-linear-to-br from-[#ffffff] to-[#f2f3f5] rounded-4xl border border-[#E5E5E5] shadow-xl flex flex-col items-center justify-center animate-fade-up delay-200">
             <div className="relative z-10 mb-3 animate-floating drop-shadow-md">
               <img
                 src="/diagnoku-logo.png"
@@ -126,7 +119,7 @@ function Homepage() {
                 className="w-16 h-16 md:w-20 md:h-20 object-contain"
               />
             </div>
-            <p className="font-['DM_Sans'] text-[15px] font-bold text-[#14213D] relative z-10">
+            <p className="text-[15px] font-bold text-[#14213D] relative z-10">
               Asisten Anda siap membantu
             </p>
           </div>
@@ -138,10 +131,10 @@ function Homepage() {
             <div className="text-3xl mb-4 transition-transform duration-300 group-hover:scale-110 group-hover:rotate-6 origin-bottom-left">
               💬
             </div>
-            <h3 className="font-['Nunito'] text-[17px] font-extrabold text-[#14213D] mb-3">
+            <h3 className="text-[17px] font-extrabold text-[#14213D] mb-3">
               Respons Cepat
             </h3>
-            <p className="font-['DM_Sans'] text-[13.5px] text-[#6E6861] leading-[1.7] font-medium m-0">
+            <p className="text-[13.5px] text-[#6E6861] leading-[1.7] font-medium m-0">
               Prediksi awal gejala dalam hitungan menit lewat percakapan natural
               tanpa perlu antre panjang.
             </p>
@@ -150,10 +143,10 @@ function Homepage() {
             <div className="text-3xl mb-4 transition-transform duration-300 group-hover:scale-110 group-hover:-rotate-6 origin-bottom-left">
               🔒
             </div>
-            <h3 className="font-['Nunito'] text-[17px] font-extrabold text-[#14213D] mb-3">
+            <h3 className="text-[17px] font-extrabold text-[#14213D] mb-3">
               Aman & Privat
             </h3>
-            <p className="font-['DM_Sans'] text-[13.5px] text-[#6E6861] leading-[1.7] font-medium m-0">
+            <p className="text-[13.5px] text-[#6E6861] leading-[1.7] font-medium m-0">
               Data kesehatan Anda tidak disebarluaskan, dienkripsi, dan diproses
               dengan standar privasi ketat.
             </p>
@@ -162,10 +155,10 @@ function Homepage() {
             <div className="text-3xl mb-4 transition-transform duration-300 group-hover:scale-110 group-hover:rotate-6 origin-bottom-left">
               🤝
             </div>
-            <h3 className="font-['Nunito'] text-[17px] font-extrabold text-[#14213D] mb-3">
+            <h3 className="text-[17px] font-extrabold text-[#14213D] mb-3">
               Panduan Lanjutan
             </h3>
-            <p className="font-['DM_Sans'] text-[13.5px] text-[#6E6861] leading-[1.7] font-medium m-0">
+            <p className="text-[13.5px] text-[#6E6861] leading-[1.7] font-medium m-0">
               Rekomendasi tindak lanjut yang jelas dan peringatan dini kapan
               Anda harus segera menemui dokter.
             </p>
@@ -176,16 +169,16 @@ function Homepage() {
         <section className="w-full animate-fade-up delay-300 border-t border-[#E5E5E5] pt-16">
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end mb-8 gap-4">
             <div className="text-left">
-              <h2 className="font-['Nunito'] text-[26px] font-extrabold text-[#000000] mb-2 tracking-tight">
+              <h2 className="text-[26px] font-extrabold text-[#000000] mb-2 tracking-tight">
                 🔥 Artikel yang Sedang Ramai
               </h2>
-              <p className="font-['DM_Sans'] text-[14.5px] text-[#6E6861] font-medium m-0">
+              <p className="text-[14.5px] text-[#6E6861] font-medium m-0">
                 Informasi kesehatan terpopuler dari berbagai sumber terpercaya.
               </p>
             </div>
             <a
               href="/artikel"
-              className="group font-['DM_Sans'] text-[14px] font-bold text-[#FCA311] hover:text-[#14213D] flex items-center gap-1.5 transition-colors duration-200"
+              className="group text-[14px] font-bold text-[#FCA311] hover:text-[#14213D] flex items-center gap-1.5 transition-colors duration-200"
             >
               Lihat Semua
               <span className="transition-transform duration-200 group-hover:translate-x-1">
@@ -227,7 +220,7 @@ function Homepage() {
                   <div
                     key={art.id}
                     onClick={() => openArticle(art.slug)}
-                    className="flex flex-col bg-white rounded-none border border-[#E5E5E5] overflow-hidden shadow-sm transition-all duration-300 hover:translate-y-[-6px] hover:shadow-xl hover:border-[#FCA311] group text-left min-h-[420px] cursor-pointer"
+                    className="flex flex-col bg-white rounded-none border border-[#E5E5E5] overflow-hidden shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:border-[#FCA311] group text-left min-h-[420px] cursor-pointer"
                   >
                     {/* Header Kartu */}
                     <div
@@ -238,13 +231,13 @@ function Homepage() {
                     >
                       <div className="absolute top-0 right-0 w-24 h-24 bg-white opacity-25 rounded-full translate-x-8 -translate-y-8 blur-xl"></div>
                       <span
-                        className="text-white px-3 py-1.5 rounded-lg text-[11px] font-extrabold font-['DM_Sans'] tracking-wide z-10 shadow-sm"
+                        className="text-white px-3 py-1.5 rounded-lg text-[11px] font-extrabold tracking-wide z-10 shadow-sm"
                         style={{ backgroundColor: color }}
                       >
                         {art.category}
                       </span>
                       {art.source && (
-                        <span className="bg-white/90 text-[#14213D] px-2.5 py-1 rounded-lg text-[10px] font-bold font-['DM_Sans'] z-10 border border-white/50 truncate max-w-[120px]">
+                        <span className="bg-white/90 text-[#14213D] px-2.5 py-1 rounded-lg text-[10px] font-bold z-10 border border-white/50 truncate max-w-[120px]">
                           {(() => {
                             try {
                               return new URL(art.source).hostname.replace(
@@ -261,17 +254,17 @@ function Homepage() {
 
                     {/* Body Kartu */}
                     <div className="p-6 flex-1 flex flex-col text-left">
-                      <h3 className="font-['Nunito'] text-[17px] font-extrabold text-[#14213D] mb-3 leading-[1.35] group-hover:text-[#FCA311] transition-colors duration-200">
+                      <h3 className="text-[17px] font-extrabold text-[#14213D] mb-3 leading-[1.35] group-hover:text-[#FCA311] transition-colors duration-200">
                         {art.title}
                       </h3>
-                      <p className="font-['DM_Sans'] text-[13.5px] text-[#6E6861] leading-[1.6] mb-5 line-clamp-3">
+                      <p className="text-[13.5px] text-[#6E6861] leading-[1.6] mb-5 line-clamp-3">
                         {art.description}
                       </p>
                       <div className="mt-auto flex justify-between items-center pt-4 border-t border-[#f2f3f5]">
-                        <span className="font-['DM_Sans'] text-[11.5px] font-bold text-[#808080]">
+                        <span className="text-[11.5px] font-bold text-[#808080]">
                           {art.category}
                         </span>
-                        <span className="font-['Nunito'] text-[12.5px] font-extrabold text-[#FCA311] group-hover:translate-x-1 transition-transform duration-200 flex items-center gap-1">
+                        <span className="text-[12.5px] font-extrabold text-[#FCA311] group-hover:translate-x-1 transition-transform duration-200 flex items-center gap-1">
                           Baca Selengkapnya{" "}
                           <span className="text-lg leading-none">→</span>
                         </span>
@@ -288,7 +281,7 @@ function Homepage() {
       {/* ─── MODAL DETAIL ARTIKEL ─── */}
       {activeArticle && (
         <div
-          className="fixed inset-0 bg-[#000000]/60 backdrop-blur-md flex items-center justify-center z-[9999] p-4"
+          className="fixed inset-0 bg-[#000000]/60 backdrop-blur-md flex items-center justify-center z-9999 p-4"
           onClick={(e) => {
             if (e.target === e.currentTarget) setActiveArticle(null);
           }}
@@ -305,7 +298,7 @@ function Homepage() {
               {!modalLoading && activeArticle.category && (
                 <div className="flex items-center gap-2 mb-3">
                   <span
-                    className="text-white px-3 py-1 rounded-full text-[10px] font-extrabold font-['DM_Sans'] tracking-wider uppercase"
+                    className="text-white px-3 py-1 rounded-full text-[10px] font-extrabold tracking-wider uppercase"
                     style={{
                       backgroundColor:
                         categoryColor[activeArticle.category] || "#14213D",
@@ -315,7 +308,7 @@ function Homepage() {
                   </span>
                 </div>
               )}
-              <h2 className="font-['Nunito'] text-2xl md:text-3xl font-black text-white leading-[1.25] mb-2">
+              <h2 className="text-2xl md:text-3xl font-black text-white leading-tight mb-2">
                 {modalLoading ? "Memuat artikel..." : activeArticle.title}
               </h2>
             </div>
@@ -332,7 +325,7 @@ function Homepage() {
                 </div>
               ) : (
                 <>
-                  <p className="font-['DM_Sans'] text-[15px] text-[#333333] leading-[1.75] mb-8 whitespace-pre-line font-normal">
+                  <p className="text-[15px] text-[#333333] leading-[1.75] mb-8 whitespace-pre-line font-normal">
                     {activeArticle.description}
                   </p>
                   <div className="flex flex-col sm:flex-row justify-between items-center pt-6 border-t border-[#f2f3f5] gap-4">
@@ -341,14 +334,14 @@ function Homepage() {
                         href={activeArticle.source}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-xs font-['DM_Sans'] font-extrabold text-[#14213D] hover:text-[#FCA311] flex items-center gap-1.5 transition-colors duration-200 no-underline"
+                        className="text-xs font-extrabold text-[#14213D] hover:text-[#FCA311] flex items-center gap-1.5 transition-colors duration-200 no-underline"
                       >
                         🌐 Buka Sumber Asli ↗
                       </a>
                     )}
                     <button
                       onClick={() => setActiveArticle(null)}
-                      className="w-full sm:w-auto bg-[#FCA311] hover:bg-[#e08e0b] text-[#000000] py-3 px-8 font-['Nunito'] text-xs font-black uppercase tracking-wider rounded-full transition-colors duration-200 cursor-pointer text-center ml-auto"
+                      className="w-full sm:w-auto bg-[#FCA311] hover:bg-[#e08e0b] text-[#000000] py-3 px-8 text-xs font-black uppercase tracking-wider rounded-full transition-colors duration-200 cursor-pointer text-center ml-auto"
                     >
                       Tutup
                     </button>
